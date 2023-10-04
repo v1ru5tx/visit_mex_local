@@ -1,2 +1,1 @@
-# visit_mex_local
-local development  visit mex
+# vm2.0

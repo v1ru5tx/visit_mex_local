@@ -1,0 +1,100 @@
+{
+  
+        "urlImagenTop":"header/CALENDARIO.webp",
+        "title":"CALENDARIO",
+        "titleTop":"PROXIMOS EVENTOS",
+        "subTitle":"Descubre los eventos que no te puedes perder.",
+        "events":[
+          {
+            "urlImg": "calendario/vendimiaAguascalientes.webp",
+            "date":"24 ago al 17 de Sep, 2023",
+            "title": "Vendimias 2023 Aguascalientes",
+            "text":"Del 24 de agosto al 17 de septiembre, la Ruta del Vino Aguascalientes 2023 abrirá sus puertas para que los visitantes se sumerjan en un universo de sabores, aromas y paisajes naturales.",
+            "vinculo":"https://rutadelvino.aguascalientes.gob.mx/",
+            "start":"2023-08-24", "end":"2023-09-17" 
+          },
+          {
+            "urlImg": "calendario/saltillo.webp",
+            "date":"21 al 24 de Sep, 2023",
+            "title": "RODEO SALTILLO",
+            "text":"¡Prepárate para el Rodeo Saltillo Expogan & Fest 2023! 🐎 Nos vemos del 22 al 24 de septiembre en la ciudad más vaquera de México. 🇲🇽 ¡Arre vaqueros!",
+            "vinculo":"",
+            "start":"2023-09-21", "end":"2023-09-24"
+          },
+          {
+            "urlImg": "calendario/ElPandelaCatrina.webp",
+            "date":"26 de oct al 05 de Nov, 2023",
+            "title": "El Pan de la Catrina.",
+            "text":"Vive la experiencia panadera y gastronómica de Tecate junto a la celebración del día de muertos.",
+            "vinculo":"https://www.facebook.com/ElPanDeLaCatrina/",
+            "start":"2023-10-26", "end":"2023-11-05" 
+          },
+          
+          {
+            "urlImg": "calendario/FullMoonLoreto2023.webp",
+            "date":"27 al 29 Oct, 2023",
+            "title": "Full Moon Festival Loreto 2023",
+            "text":"Semana dedicada al yoga, bienestar y la meditacion en el Pueblo Mágico de Loreto.",
+            "vinculo":"https://www.loretobcstourism.com/event/full-moon-festival-2023/",
+            "start":"2023-10-27", "end":"2023-10-29" 
+          },
+          {
+            "urlImg": "calendario/FeriaDeTodosLosSantos2023.webp",
+            "date":"27 de oct al 12 Nov, 2023",
+            "title": "Feria de todos los Santos",
+            "text":"Feria Estatal de Colima con gastronomía, juegos mecánicos, exposiciones, conciertos, y más.",
+            "vinculo":"https://www.facebook.com/FeriaColima/?locale=es_LA",
+            "start":"2023-10-27", "end":"2023-11-12" 
+          },
+          {
+            "urlImg": "calendario/diaMuertos.webp",
+            "date":"01 al 02 de Nov, 2023",
+            "title": "Día de muertos",
+            "text":"¡Vive la celebración mexicana más reconocida en el mundo!",
+            "vinculo":"",
+            "start":"2023-11-01", "end":"2023-11-02"
+          },
+          {
+            "urlImg": "calendario/festivalChocolate.webp",
+            "date":"02 de Nov, 2023",
+            "title": "12vo festivaL del chocolate tabasco",
+            "text":"México fue el primer país en cultivar el cacao. Asiste a la tradicional fiesta que celebra este orgullo, del 15 al 19 de noviembre en Tabasco.",
+            "vinculo":"https://festivaldelchocolate.mx/",
+            "start":"2023-11-02", "end":"2023-11-02"
+          },
+          {
+            "urlImg": "calendario/festivalCalaverasAguascalientes.webp",
+            "date":"02 al 05 de Nov, 2023",
+            "title": "Festival de las Calaveras, Aguascalientes",
+            "text":"El Festival de Calaveras es uno de los atractivos más importantes de Aguascalientes. Año tras año, a finales de octubre y principios de noviembre, la ciudad se convierte en una pintoresca celebración a los difuntos que tiene preparadas diversas sorpresas para ti.",
+            "vinculo":"https://www.mexicodesconocido.com.mx/festival-de-las-calaveras-en-aguascalientes.html",
+            "start":"2023-11-02", "end":"2023-11-05" 
+          },
+          {
+            "urlImg": "calendario/TSL-LOGO.png",
+            "date":"25 Nov, 2023",
+            "title": "Triatlon Sprint Loreto",
+            "text":"Nada, corre y pedalea en el Pueblo Magico de Loreto.",
+            "vinculo":"https://www.timermexico.com/convocatoria-evento/?event=f8ba349f08582ec5d3f9b7ada0ac7e1a&api_key=7d0071a9465cd5ca",
+            "start":"2023-11-25", "end":"2023-11-25" 
+          },
+          {
+            "urlImg": "calendario/MarAMar.webp",
+            "date":"01 al 03 de Dic, 2023",
+            "title": "Mar a Mar",
+            "text":"Evento deportivo carrera pedestre campo traviesa 102 km.",
+            "vinculo":"https://maramartrail.com/",
+            "start":"2023-12-01", "end":"2023-12-03" 
+          },
+          {
+            "urlImg": "calendario/festivalHistoricoCampeche.webp",
+            "date":"08 al 21 de Dic, 2023",
+            "title": "Festival Historico Campeche",
+            "text":"El Festival Internacional del Centro Histórico de Campeche, cuya décima octava edición tendrá lugar del 8 al 21 de diciembre, ofrecerá más de 50 actividades culturales, entre música, danza, teatro, artes visuales y presentaciones de libros.",
+            "vinculo":"",
+            "start":"2023-11-15", "end":"2023-11-19"
+          }
+         ]
+     
+             
+}

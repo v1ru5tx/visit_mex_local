@@ -1,0 +1,17 @@
+[
+	{ "name": "活动日历",
+		"dir": "/calendario"
+	},
+	{ "name":  "视频",
+		"dir": "/videos"
+	},
+	{ "name":"下载", 
+		"dir": "/descargas"
+	},
+	{ "name":"博客",
+		"dir": "/blog"
+	},
+	{ "name":"旅游导游", 
+		"dir": "/guias-turisticas"
+	}
+]

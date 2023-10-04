@@ -1,0 +1,174 @@
+{
+  "title":"Eventos Internacionales",
+  "urlVideoTop": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=1&mute=1&loop=1",
+  "cardsGallery": [
+    {
+        "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+        "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+        "month": "Oct",
+        "day": "27",
+        "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+        "dir":"/"
+    },
+    {
+        "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+        "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+        "month": "Oct",
+        "day": "27",
+        "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+        "dir":"/"
+    },
+    {
+        "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+        "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+        "month": "Oct",
+        "day": "27",
+        "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+        "dir":"/"
+    }
+  ],
+  "titleSlider": "RECORRE LOS EVENTOS",
+  "slider": [
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "AUTOMOVILISMO"
+    },
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "NAYARIT SAN BLAS"
+    },
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    },
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    },
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    },
+    {
+      "urlVideo": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "description": "DESENMASCARANDO LA LUCHA LIBRE - EL LUCHADOR"
+    }
+  ],
+  "carousel": [
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "AUTOMOVILISMO"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "AUTOMOVILISMO"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    }
+  ],
+  "titleFinderGallery": "DESCUBRE NUESTROS EVENTOS",
+  "subtitleFinderGallery": "Explora lo mejos de los eventos internacionales de México.",
+  "finderGellery": [
+		{
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "AUTOMOVILISMO"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "AUTOMOVILISMO"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    }
+	],
+  "exploreTitle": "EXPLORA CON MÉXICO",
+  "exploreSubTitle": "Descubramos juntos a México y su infinidad de cultura a través de sus eventos internacionales.",
+  "exploreGallery": [
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "AUTOMOVILISMO"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    }
+  ],
+  "galleryTitle": "DISFRUTA NUESTRA GALERIA",
+  "videoGallery": [
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "AUTOMOVILISMO"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "GRAN CARRERA DEL DESIERTO SONORA 2022"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "CARRERA PANAMERICANA - GUARDIA NACIONAL"
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/K7lM1EiH-0c?autoplay=0&mute=0&loop=1",
+      "title": "NAYARIT SAN BLAS"
+    }
+  ] 
+}

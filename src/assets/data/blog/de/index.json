@@ -1,0 +1,22 @@
+{
+  "urlImagenTop": "blog/principal.jpg",
+  "title": "BLOG",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "urlImg": "blog/manoEsferas.png",
+      "name": "Zur Weihnachtszeit wird ganz Mexiko von gläsernen Christbaumkugeln geschmückt.",
+      "text": "Jahr für Jahr werden die Tannenbäume in Mexiko mit diesen prachtvollen Kugeln verziert, die erfahrene Glasbläser in aufwendiger Handarbeit herstellen. Die einzigartige Technik der Glasbläserei bietet eine Vielzahl von Möglichkeiten, um wunderschöne Kreationen zu schaffen, die die tief verwurzelte und einzigartige Tradition des Weihnachtsfestes in Mexiko verschönern.",
+      "urlPost": "/post",
+      "post": 1
+    },
+    {
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "10 Aktivitäten, die du in Cozumel unternehmen kannst",
+      "text": "Cozumel, eines der wertvollsten Inselparadiese Mexikos, liegt direkt in der mexikanischen Karibik.Sein natürlicher Reichtum wird perfekt durch das Erbe der Maya-Kultur, die moderne Infrastruktur für den Tourismus, wie dem internationalen Flughafen und der Hotelzone sowie Anlegestellen für große Kreuzfahrtschiffe ergänzt",
+      "urlPost": "/post",
+      "post": 2
+    }
+  ]
+}

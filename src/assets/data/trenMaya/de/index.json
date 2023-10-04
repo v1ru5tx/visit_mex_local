@@ -1,0 +1,53 @@
+{
+    "title": "DER MAYA-ZUG",
+    "subTitle":"DER MAYA-ZUG",
+    "subTitle2":"BILDER",
+    "subTitle3":"VIDEOS",
+    "text":"Es ist ein neuer Schienenverkehrsdienst, der die wichtigsten Städte und touristischen Gebiete der Halbinsel Yucatán miteinander verbindet. Der Maya-Zug ist ein Projekt, das die räumliche Austeilung der Region, und die touristische Industrie, stärken wird. Er wird wirtschaftliche Auswirkungen haben und die Konnektivität auf der Halbinsel Yucatán erhöhen, um Fracht und Passagiere effizient zu transportieren.",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=0&mute=0&loop=1"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1"
+        }
+
+    ]
+    
+}

@@ -1,0 +1,115 @@
+{
+  
+  "urlImagenTop":"header/CALENDARIO.webp",
+  "title":"カレンダー",
+  "titleTop":"今後のイベント",
+  "subTitle":"見逃せないイベントをご紹介します。",
+  "events":[
+    {
+      "urlImg": "calendario/vendimiaAguascalientes.webp",
+      "date":"2023年8月24日から9月17日まで",
+      "title": "2023 年の収穫 アグアスカリエンテス",
+      "text":"8月24日から9月17日まで、アグアスカリエンテス ワイン ルート 2023 が扉を開き、訪問者が味、香り、自然の風景の世界に浸ることができます。",
+      "vinculo":"https://rutadelvino.aguascalientes.gob.mx/",
+      "start":"2023-08-24", "end":"2023-09-17" 
+    },
+    {
+      "urlImg": "calendario/saltillo.webp",
+      "date":"2023年9月21日から24日まで",
+      "title": "サルティージョ・ロデオ",
+      "text":"ロデオ サルティージョ エクスポガン & フェスト 2023 の準備をしましょう! 🐎 9 月 22 日から 24 日まで、メキシコで最もカウボーイの街でお会いしましょう。 🇲🇽 ジーンズを引き上げてください！",
+      "vinculo":"",
+      "start":"2023-09-21", "end":"2023-09-24"
+    },
+    {
+      "urlImg": "calendario/ElPandelaCatrina.webp",
+      "date":"2023 年 10 月 26 日から 11 月 5 日まで",
+      "title": "カトリーナのパン。",
+      "text":"死者の日のお祝いとともに、テカテのパン屋と美食体験を満喫しましょう。",
+      "vinculo":"https://www.facebook.com/ElPanDeLaCatrina/",
+      "start":"2023-10-26", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/FullMoonLoreto2023.webp",
+      "date":"27 al 29 Oct, 2023",
+      "title": "フルムーンフェスティバル ロレート 2023",
+      "text":"魔法の町ロレートでのヨガ、ウェルネス、瞑想に特化した週。",
+      "vinculo":"https://www.loretobcstourism.com/event/full-moon-festival-2023/",
+      "start":"2023-10-27", "end":"2023-10-29" 
+    },
+    {
+      "urlImg": "calendario/FeriaDeTodosLosSantos2023.webp",
+      "date":"2023年10月27日から11月12日まで",
+      "title": "オールセインツフェア",
+      "text":"美食、機械ゲーム、展示会、コンサートなどが行われるコリマ ステート フェア",
+      "vinculo":"https://www.facebook.com/FeriaColima/?locale=es_LA",
+      "start":"2023-10-27", "end":"2023-11-12" 
+    },
+    {
+      "urlImg": "calendario/festivalChocolate.webp",
+      "date":"2023 年 11 月 2 日",
+      "title": "12タバスコチョコレートフェスティバル",
+      "text":"メキシコはカカオを最初に栽培した国です。 11 月 15 日から 19 日までタバスコ州で開催される、この誇りを祝う伝統的な祭りに参加してください。",
+      "vinculo":"https://festivaldelchocolate.mx/",
+      "start":"2023-11-02", "end":"2023-11-02"
+    },
+
+    {
+      "urlImg": "calendario/FestivaldeLas_Calaveras.webp",
+      "date":"2023 年 11 月 2 日から 05 日まで",
+      "title": "ドクロ文化祭",
+      "text":"ガーバンセラ カトリーナとその作者ホセ グアダルーペ ポサダを中心とした伝統が際立つフェスティバルです。",
+      "vinculo":"",
+      "start":"2023-10-26", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/festivalCalaverasAguascalientes.webp",
+      "date":"2023 年 11 月 2 日から 05 日まで",
+      "title": "スカルズ フェスティバル、アグアスカリエンテス",
+      "text":"スカル フェスティバルは、アグアスカリエンテスの最も重要なアトラクションの 1 つです。毎年 10 月末から 11 月初旬にかけて、街は絵のように美しい故人を祝うお祭りとなり、さまざまなサプライズが用意されています。",
+      "vinculo":"https://www.mexicodesconocido.com.mx/festival-de-las-calaveras-en-aguascalientes.html",
+      "start":"2023-11-02", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/TSL-LOGO.png",
+      "date":"2023 年 11 月 25 日",
+      "title": "スプリント トライアスロン ロレート",
+      "text":"魔法の町ロレートで泳いだり、走ったり、ペダルをこいだりしてみましょう",
+      "vinculo":"https://www.timermexico.com/convocatoria-evento/?event=f8ba349f08582ec5d3f9b7ada0ac7e1a&api_key=7d0071a9465cd5ca",
+      "start":"2023-11-25", "end":"2023-11-25" 
+    },
+    {
+      "urlImg": "calendario/MarAMar.webp",
+      "date":"2023 年 12 月 1 日から 3 日まで",
+      "title": "海から海へ",
+      "text":"スポーツイベント徒競走クロスカントリー102km。",
+      "vinculo":"https://maramartrail.com/",
+      "start":"2023-12-01", "end":"2023-12-03" 
+    },
+    {
+      "urlImg": "calendario/festivalHistoricoCampeche.webp",
+      "date":"2023 年 12 月 8 日から 21 日まで",
+      "title": "カンペチェ歴史フェスティバル",
+      "text":"第18回カンペチェ歴史地区国際フェスティバルは12月8日から21日まで開催され、音楽、ダンス、演劇、視覚芸術、本の紹介など50以上の文化活動が開催される。",
+      "vinculo":"",
+      "start":"2023-11-15", "end":"2023-11-19"
+    }
+ 
+
+
+
+
+
+
+   
+
+    
+   
+  
+   
+   
+   
+   
+   
+  ]
+}

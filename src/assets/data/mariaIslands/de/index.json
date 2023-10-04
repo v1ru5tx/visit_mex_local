@@ -1,0 +1,48 @@
+{
+    "id": "islas-marias",
+    "title": "Marias-Inseln",
+    "subtitle": "Entdecken Sie Islas Marías",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Leuchtturm Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Sah Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "Die Marías-Inseln waren mehr als 100 Jahre lang der Sitz einer der gefürchtetsten Strafanstalten, die heute ein neues Touristenziel ist, wo man Freiheit atmen kann und Umwelterziehung, Kultur und Kunst gefördert werden. Die perfekte Kombination für einen unvergesslichen Urlaub."
+        },
+        {
+            "text": "Sie liegen im Bundesstaat Nayarit und bestehen aus den Inseln María Magdalena, María Cleofas, San Juanito und María Madre. Die Bedeutung dieser Inseln liegt in ihrer enormen Artenvielfalt, da sie im Jahr 2000 als Biosphärenreservat zum Naturschutzgebiet erklärt wurden. Es ist von der UNESCO aufgrund seiner endemischen Flora und Fauna anerkannt, die von Mangroven bis zu Korallenriffen reicht und zahlreiche Tierarten umfasst, von denen einige vom Aussterben bedroht sind."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Quadrat Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Hafen Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Marineflugplatz Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Wandbild der Hauptstadt",
+            "dir": "/"
+        }
+    ]
+}

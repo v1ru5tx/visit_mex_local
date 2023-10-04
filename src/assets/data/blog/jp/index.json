@@ -1,0 +1,22 @@
+{
+  "urlImagenTop": "blog/principal.jpg",
+  "title": "ブログ",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "urlImg": "blog/manoEsferas.png",
+      "name": "クリスマスボール、メキシコのクリスマスを彩るガラスの芸術",
+      "text": "世界でもユニークなメキシコのクリスマスは伝統が根付いており、年々吹き込みガラスの 技術で熟練の職人の魔法のような手で作り出され、賞賛を浴びる美しいクリスマスボール によってこの時期の行事を彩っています。",
+      "urlPost": "/post",
+      "post": 1
+    },
+    {
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "コスメル島で行うべきアクティビティ10選",
+      "text": "コスメル島というメキシコの中で最も貴重なパラダイスとなる島がカリブ海にあり、マヤ 文化の遺産と、国際空港やホテルゾーン、大型客船が停泊できる港など観光を受け入れる ための近代的なインフラと、豊富な自然が、完璧な調和を織りなしています。<br><br> 燕の島という異名を持つキンタナ・ロー州、コスメル島は、世界で2番に大きいサンゴ礁 があり、豊富な海上の動植物を観察するのに適しています。",
+      "urlPost": "/post",
+      "post": 2
+    }
+  ]
+}

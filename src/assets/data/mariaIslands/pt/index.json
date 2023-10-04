@@ -1,0 +1,48 @@
+{
+    "id": "islas-marias",
+    "title": "Descubra as Ilhas Marias",
+    "subtitle": "Descubre Islas Marías",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Farol Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Visto Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "As Ilhas Marias foram, durante mais de 100 anos, sede de um dos centros penitenciários mais temidos, que é hoje um novo destino turístico onde se respira liberdade, se promove a educação ambiental, a cultura e as artes. A combinação perfeita para férias inesquecíveis."
+        },
+        {
+            "text": "Estão localizadas no estado de Nayarit e são formadas pelas ilhas María Magdalena, María Cleofas, San Juanito e María Madre. A importância destas ilhas reside na sua enorme biodiversidade, já que em 2000 foram declaradas Área Natural Protegida, como Reserva da Biosfera. É reconhecida pela UNESCO devido à sua flora e fauna endémicas, que vão desde mangais a recifes de coral, incluindo inúmeras espécies animais, algumas delas em perigo de extinção."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Quadrado Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Porta Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Estação Aérea Naval Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Mural da cidade principal",
+            "dir": "/"
+        }
+    ]
+}

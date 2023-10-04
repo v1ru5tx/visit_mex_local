@@ -1,0 +1,17 @@
+[
+	{ "name":"Calendario", 
+		"dir": "/calendario"
+	},
+	{ "name":"Videos", 
+		"dir": "/videos"
+	},
+	{ "name":"Descargas", 
+		"dir": "https://behavior.com.mx/sectur/"
+	},
+	{ "name":"Blog", 
+		"dir": "/blog"
+	},
+	{ "name":"Guías Turísticas", 
+		"dir": "/guias-turisticas"
+	}
+]

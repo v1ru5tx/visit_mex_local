@@ -1,0 +1,66 @@
+.maria-islands-description-ctn {
+	padding: 160px 0 0 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 160px;
+	background-position: top;
+}
+
+.maria-islands-description-content-ctn {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 24px;
+	padding: 32px;
+	background-image: url('../../assets/img/experiences/bg.webp');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: center;
+}
+
+.maria-islands-description-content-ctn-text {
+	flex: 1 0 60%;
+	padding-right: 32px;
+}
+
+.maria-islands-description-content-ctn-img {
+	flex: 1 0 30%;
+	align-self: center;
+	position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.maria-islands-description-content-ctn-img iframe{
+	position: absolute;
+    top:20%;
+    left: 0;
+    width: 100%;
+    height: 60%;
+}
+
+
+
+.maria-islands-description-content-title {
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--blue);
+	font-size: var(--txt-title-xl);
+	text-align: left;
+}
+
+.maria-islands-description-content-text {
+	font-size: var(--txt-h5-xl);
+	text-align: justify;
+}
+
+.videoIslasMarias{
+	border-radius: 10px;
+}
+
+
+
+

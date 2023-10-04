@@ -1,0 +1,643 @@
+{
+    "experiences": [
+        {
+            "id": "rutas-gastronomicas",
+            "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?autoplay=1&mute=1&loop=1",
+            "title": "Mexiko ist Geschmack",
+            "gallery": [
+                {
+                    "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+                    "title": "Sabores de los Dioses Mayas en Yucatán",
+                    "dir": "https://yucatan.travel/gastronomia/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+                    "title": "Platillos exóticos de Hidalgo",
+                    "dir": "https://hidalgo.travel/wordpress/?page_id=5312"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/ChileNogada.webp",
+                    "title": "Platillo mexicano por excelencia, Puebla",
+                    "dir": "https://www.visitpuebla.mx/es/ruta-agroturistica-del-chile-en-nogada"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Mariscos.webp",
+                    "title": "Delicias del mar en Campeche",
+                    "dir": "https://campeche.travel/destinations/gastronomia-tradicional/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/langostas.webp",
+                    "title": "Langostas estilo Puerto Nuevo, Baja California",
+                    "dir": "https://bajacalifornia.travel/es/cuatro-opciones-en-rosarito-para-probar-la-langosta/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Cajeta.webp",
+                    "title": "Cajeta de Celaya, Guanajuato",
+                    "dir": "https://guanajuato.mx/gastronomia/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/AGREGAR-Tabasco_-del-cacaco-al-chocolate.webp",
+                    "title": "Cacao de Tabasco",
+                    "dir": "https://visitetabasco.com/en/rutas-turisticas/del-cacao-al-chocolate/"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/torremariscossinaloa.webp",
+                    "title": "Torre de Camarones, Sinaloa",
+                    "dir": "https://sinaloa.travel/mercados"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/deliciascaribe.webp",
+                    "title": "Delicias del Mar, Caribe Mexicano",
+                    "dir": "https://www.caribemexicano.travel/restaurantes/"
+                }
+            ],
+            "description": [
+                {
+                    "text": "Mexiko steht für Geschmack, aber auch für Tradition und Kultur. Die Bedeutung der Gastronomie unseres Landes ist so groß, dass die UNESCO 2010 die traditionelle mexikanische Küche zum immateriellen Kulturerbe der Menschheit erklärte. Die mexikanische Küche ist ein wesentlicher Faktor für die kulturelle Identität, den Sozialstruktur und die Entwicklung der Gesellschaft."
+                },
+                {
+                    "text": "In unserem Land findest du eine unendliche Anzahl einzigartiger Zutaten und Gerichte, die deinen Besuch unvergesslich machen werden. Wir haben ein riesiges gastronomisches Angebot, mehr als 584 Tausend Restaurants, und zwei davon, beide in Mexiko-Stadt, gehören zu den 10 besten der Welt."
+                }
+            ]
+        },
+        {
+            "id": "sol-y-playa",
+            "urlVideoTop": "https://www.youtube.com/embed/WVeHPYxFTUA?&autoplay=1&mute=1&loop=1",
+            "title": "SONNE, STRAND UND MEER",
+            "subtitle": "ENTDECKEN SIE SONNE UND STRAND", 
+            "titleGallery": "GENIESSEN SIE SONNE UND STRAND",
+            
+            "gallery": [
+                {
+                    "imageUrl": "solPlayaGallery/coloradasyucatan.webp",
+                    "title": "Las Coloradas, Yucatán",
+                    "dir": "https://yucatan.travel/sol-y-playa/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/rosarito.webp",
+                    "title": "Rosarito Baja California",
+                    "dir": "https://rosarito.travel/"
+                },
+                
+                {
+                    "imageUrl": "solPlayaGallery/bajacaliforniasur.webp",
+                    "title": "Loreto, Baja California Sur",
+                    "dir": "https://visitbajasur.travel/loreto/es/"
+                },
+                
+                {
+                    "imageUrl": "solPlayaGallery/CancunQintanaRoo.webp",
+                    "title": "Cancún, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/cancun/que-hacer/playas/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/Cozumel.webp",
+                    "title": "Cozumel, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/isla-cozumel/que-hacer/playas/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/ChamborTabasco.webp",
+                    "title": "Playa Chambor, Tabasco",
+                    "dir": "https://visitetabasco.com/experiencias/ver-oir-y-sentir-el-mar-en-playa-chambor/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/ferrisinaloa.webp",
+                    "title": "Ferri en Sinaloa",
+                    "dir": "https://sinaloa.travel/destinos"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/soconuscochiapas.webp",
+                    "title": "Costa Soconusco, Chiapas",
+                    "dir": "https://visitchiapas.com/v1/Ruta-costa-soconusco"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/islamujeres.webp",
+                    "title": "Isla Mujeres, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/que-hacer/playas/"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/fuertecampeche.webp",
+                    "title": "Fuerte Campeche, Campeche",
+                    "dir": "https://campeche.travel/destinations/refrescate-playas-balnearios/"
+                }
+            ],
+            "subGallery": [
+                {
+                    "imageUrl": "solPlayaGallery/BCN_ensenada_7_11zon.webp",
+                    "title": "ENSENADA, BAJA CALIFORNIA"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/BCS_cabo_pulmo_26_11zon.webp",
+                    "title": "CABO PULMO, BAJA CALIFORNIA SUR"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/GRO_acapulco_1317_11zon.webp",
+                    "title": "ACAPULCO, GUERRERO"
+                },
+                {
+                    "imageUrl": "solPlayaGallery/JAL_careyes_11_11zon.webp",
+                    "title": "CAREYES, JALISCO"
+                }
+            ],
+            "cardsGallery": [
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                }
+            ],
+            "description": [
+                {
+                    "text": "Die privilegierte Lage Mexikos, das vom Pazifischen Ozean, dem Golf von Mexiko und dem Karibischen Meer umgeben ist, macht unser Land zu einem paradiesischen Ziel für Touristen, die Sonne, Strand und Meer suchen."
+                },
+                {
+                    "text": "Mexikos mehr als 11.000 Kilometer lange Küste macht jeden Strand auf seine Weise einzigartig, mit verschiedenfarbigem Wasser, unterschiedlichem Sand, traumhaften Landschaften und verschiedenen Kulturen."
+                },
+                {
+                    "text": "Auch die Meeresflora und -fauna machen Mexiko zu einem Magneten für Besucher*innen aus aller Welt. Das Meer von Cortez, das als Aquarium der Welt gilt, die wunderschöne Bucht von Acapulco mit einem der vorteilhaftesten Klimata der Welt und die Strände von Oaxaca, deren Wellen sich perfekt zum Surfen eignen, sind nur einige Beispiele für die Möglichkeiten, die der mexikanische Pazifik bietet. Auf der Seite des Golfs von Mexiko finden wir die Costa Esmeralda in Veracruz und das türkisfarbene Blau der mexikanischen Karibik mit ihrem weißen Sandstrand."
+                }
+            ]
+        },
+        {
+            "id": "aventura",
+            "urlVideoTop": "https://www.youtube.com/embed/MQNWS8yp__o?&autoplay=1&mute=1&loop=1",
+            "title": "ABENTEUERTOURISMUS",
+            "gallery": [
+                {
+                    "imageUrl": "SIN_guanacoa_257.webp",
+                    "title": "Mazatlán, Sinaloa",
+                    "dir": "https://sinaloa.travel/experiencias/chepe-express"
+                },
+                {
+                    "imageUrl": "GolfBCS.webp",
+                    "title": "Loreto, Baja California Sur",
+                    "dir": "https://visitbajasur.travel/loreto/es/actividades/"
+                },
+                {
+                    "imageUrl": "ROO_PlayaDelCarmen_Kayak-1137.jpg",
+                    "title": "PLAYA DEL CARMEN, QUINTANA ROO",
+                    "dir": "https://www.caribemexicano.travel/que-hacer/naturaleza-y-aventura/"
+                },
+                {
+                    "imageUrl": "CHIS_agua_azul_46.jpg",
+                    "title": "AGUA AZUL, CHIAPAS",
+                    "dir": "https://visitchiapas.com/v1/Turismo-de-naturaleza.2"
+                },
+                {
+                    "imageUrl": "CuatroCienagasCoahuila.jpg",
+                    "title": "CUATRO CIÉNEGAS, COAHUILA",
+                    "dir": "https://hazturismoencoahuila.mx/descubre"
+                },
+                {
+                    "imageUrl": "LABUFADORAENSENADABC.jpg",
+                    "title": "ENSENADA, BAJA CALIFORNIA",
+                    "dir": "https://bajacalifornia.travel/es/de-ensenada-a-la-bufadora-panoramicas-acantilados-y-geisers/"
+                }
+            ],
+            "description": [
+                {
+                    "text": "Unter dem Begriff Megadiversität versteht man eine extrem hohe Artenvielfalt. Mexiko ist eines der wenigen Länder (19 insgesamt), die unter diese Kategorie fallen."
+                },
+                {
+                    "text": "Diese Fülle an Ökosystemen macht es zu einem der besten Reiseziele für abenteuerlustige Seelen, die das Adrenalin spüren und die die Natur genießen möchten."
+                },
+                {
+                    "text": "Berge, Flüsse, Wüsten, Meere und vielerlei Naturlandschaften warten auf dich mit offenen Armen. "
+                },
+                {
+                    "text": "Zu den Abenteuern, die auf dich warten, gehören: Stromschnellen, Abseilen, Surfen, Radfahren, Tauchen, schnelle Seilrutschen bzw. Zip-Line, Kajakfahren, Segeln, Bergsteigen und vieles mehr. Mach dich bereit für das Abenteuer deines Lebens in Mexiko!"
+                }
+            ],
+            
+            
+            "cardsGallery": [
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                }
+            ]
+        },
+        {
+            "id": "sostenible",
+            "urlVideoTop": "https://www.youtube.com/embed/hEuneaZVBws?&autoplay=1&mute=1&loop=1",
+            "title": "Nachhaltig",
+            "secondTitle": "",
+            "subtitle": "ENTDECKEN SIE NACHHALTIG",
+            
+            "gallery": [
+                {
+                    "imageUrl": "sostenibleGallery/BCS_tiburonballena.webp",
+                    "title": "BCS Tiburon Ballena"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/tortugatulum.webp",
+                    "title": "Tulum, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/informacion-de-viaje/viajero-responsable/"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/artesaniastabasco.webp",
+                    "title": "Artesanías, Tabasco",
+                    "dir": "https://visitetabasco.com/experiencias/?segmento=rural"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/fresas.webp",
+                    "title": "Guanajuato",
+                    "dir": "https://guanajuato.mx/turismo-social/"
+                },
+                {
+                    "imageUrl": "sostenibleGallery/telar.webp",
+                    "title": "Artesana de Textiles, Quintana Roo",
+                    "dir": "https://visitchiapas.com/v1/Turismo-de-naturaleza"
+                }
+            ],
+            "cardsGallery": [
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                }
+            ],
+            "description": [
+                {
+                    "text": "Nachhaltiger Tourismus ist ein Mittel zur Nutzung, Erhaltung und Bewahrung des Natur- und Kulturerbes in einem Umfeld, das die soziale, wirtschaftliche, ökologische und kulturelle Verbesserung der aufnehmenden Gemeinden begünstigt, um die aktuellen Bedürfnisse der Bevölkerung ohne Kompromisse oder Kompromisse zu befriedigen gefährden die Ressourcen künftiger Generationen."
+                },
+                {
+                    "text": "Konkret geht es dabei um einen wirtschaftlich gerechten, sozial integrativen und umweltbewussten Tourismus."
+                }
+            ],
+            "secondDescription": [
+                {
+                    "text": ""
+                },
+                {
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "id": "bienestar",
+            "urlVideoTop": "https://www.youtube.com/embed/qmN6CifrUxU?&autoplay=1&mute=1&loop=1",
+            "title": "Wellness-Tourismus",
+            "subtitle": "ENTDECKEN SIE WOHLBEFINDEN",
+            
+            "gallery": [
+                {
+                    "imageUrl": "bienestarGallery/tecate.webp",
+                    "title": "Tecate, Baja California",
+                    "dir": "https://bajacalifornia.travel/es/salud-y-bienestar/"
+                },
+                {
+                    "imageUrl": "bienestarGallery/BCS1.webp",
+                    "title": "Bienestar, Baja California Sur",
+                    "dir": "https://es.golapaz.com/que-hacer/spas-y-bienestar/?bounds=false&view=list&sort=qualityScore"
+                },
+                {
+                    "imageUrl": "bienestarGallery/bienestargto.webp",
+                    "title": "Bienestar en Guanajuato",
+                    "dir": "https://guanajuato.mx/wellness/"
+                },
+                {
+                    "imageUrl": "bienestarGallery/bacalar.webp",
+                    "title": "Bacalar, Quintana Roo",
+                    "dir": "https://www.caribemexicano.travel/que-hacer/wellness/"
+                },
+                {
+                    "imageUrl": "bienestarGallery/tabasco.webp",
+                    "title": "Tabasco",
+                    "dir": "https://visitetabasco.com/experiencias/?segmento=bienestar"
+                },
+                {
+                    "imageUrl": "bienestarGallery/cenoteyucatan.webp",
+                    "title": "Cenote en Yucatán",
+                    "dir": "https://yucatan.travel/wellness/"
+                }
+            ],
+            "cardsGallery": [
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                },
+                {
+                    "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+                    "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+                    "month": "Oct",
+                    "day": "27",
+                    "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+                    "dir":"/"
+                }
+            ],
+            "description": [
+                {
+                    "text": "Auch Wellness-Tourismus bzw. Gesundheitstourismus genannt, umfaßt jene Arten von Aktivitäten, deren Hauptmotivation darin besteht, durch medizinische und Wellness-Aktivitäten zur körperlichen, geistigen oder seelischen Gesundheit der*des Touristen*innen beizutragen."
+                },
+                {
+                    "text": "Eine Massage, ein Temazcal-Bad, Akupunktur, Meditation, Yoga oder ein spiritueller Rückzug sind nur einige der Aktivitäten, die im Wellness-Tourismus enthalten sind, wobei Mexiko in der lateinamerikanischen Region den ersten Platz belegt und den Siebten der 20 Länder, die sich auf diese diese Tourismusart spezialisieren."
+                },
+                {
+                    "text": "Genauso wie die Gesundheit ein Recht ist, ist es auch der Tourismus. Und in Mexiko kümmern wir uns darum, dass du beides in vollen Zügen genießt. Hier findest du allerhand Reiseziele und Aktivitäten, an denen du dich entspannen und auf deine Gesundheit achten kannst."
+                }
+            ]
+        },
+        {
+            "id": "bodas",
+            "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?autoplay=1&mute=1&loop=1",
+            "title": "Hochzeit",
+            "buttons": [
+                {
+                    "name": "STRAND",
+                    "descriptionInteractive": "Von den 32 Einheiten Mexikos haben mehr als die Hälfte Strände, die an den Pazifischen Ozean, den Golf von Mexiko oder das Karibische Meer grenzen. Paradiesische Kulissen für eine unvergessliche Hochzeit mit dem Meer als Zeuge jeder Verbindung.",
+                    "links": [
+                        {
+                            "name": "Los Cabos, Baja California Sur",
+                            "imageUrl": "Bodas Cabos.webp",
+                            "link": [
+                                {
+                                    "name": "Los Cabos, Baja California Sur",
+                                    "dir": "https://www.visitloscabos.travel/weddings/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ENSENADA, BAJA CALIFORNIA",
+                            "imageUrl": "Boda BC.webp",
+                            "link": [
+                                {
+                                    "name": "ENSENADA, BAJA CALIFORNIA",
+                                    "dir": "https://bajacalifornia.travel/romance/ciudades"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tapachula, Chiapas",
+                            "imageUrl": "TapachulaChiapas.webp",
+                            "link": [
+                                {
+                                    "name": "Tapachula, Chiapas",
+                                    "dir": "https://visitchiapas.com/v1/Tapachula-romantico-tapachula-de-cordova-y-ordonez"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CELESTÚN, YUCATÁN",
+                            "imageUrl": "Boda caribe.webp",
+                            "link": [
+                                {
+                                    "name": "CELESTÚN, YUCATÁN",
+                                    "dir": "https://yucatan.travel/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Caribe Mexicano",
+                            "imageUrl": "Novios-Puerto-Vallarta.webp",
+                            "link": [
+                                {
+                                    "name": "Caribe Mexicano",
+                                    "dir": "https://www.caribemexicano.travel/bodas/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TRADITIONELL",
+                    "descriptionInteractive": "Der kulturelle Reichtum Mexikos ermöglicht es Ihnen, dank seiner traditionellen Hochzeiten, die auf alten prähispanischen Riten basieren, eine andere und magische Hochzeit zu feiern.",
+                    "links": [
+                        {
+                            "name": "Boda Nahua, Veracruz",
+                            "imageUrl": "boda_tradicional_Nahua_Veracruz.webp",
+                            "link": [
+                                {
+                                    "name": "Boda Nahua, Veracruz",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/727483/Veracruz_compressed.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Maya, Yucatán",
+                            "imageUrl": "BODAMAYA.webp",
+                            "link": [
+                                {
+                                    "name": "Boda Maya, Yucatán",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/733985/Yucata_n.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Chichimeca, Aguascalientes",
+                            "imageUrl": "BodaTradicionalChichimeca.webp",
+                            "link": [
+                                {
+                                    "name": "Boda Chichimeca, Aguascalientes",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/726452/Aguascalientes.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Nahuatl, Hidalgo",
+                            "imageUrl": "bodatradicionalhidalgo.webp",
+                            "link": [
+                                {
+                                    "name": "Boda Nahuatl, Hidalgo",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/726455/Hidalgo.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boda Wixarica, Zacatecas",
+                            "imageUrl": "Ceremonia_Wixarika_Zacatecas.webp",
+                            "link": [
+                                {
+                                    "name": "Boda Wixarica, Zacatecas",
+                                    "dir": "https://www.gob.mx/cms/uploads/attachment/file/773060/catalogo_bodas_tradicionales_zacatecas.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KOLONIAL",
+                    "descriptionInteractive": "Stellen Sie sich vor, wie romantisch Ihre Hochzeit in einem unserer Räume sein wird Diese Kolonialstädte liegen in einer alten Hacienda, in der die Zeit stehengeblieben zu sein scheint und jede Ecke Sie und Ihre Gäste mit ihrer Schönheit in ihren Bann zieht.",
+                    "links": [
+                        {
+                            "name": "Guanajuato, Guanajuato",
+                            "imageUrl": "San_Gabriel_Gto.webp",
+                            "link": [
+                                {
+                                    "name": "Guanajuato, Guanajuato",
+                                    "dir": "https://guanajuato.mx/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cuernavaca, Morelos",
+                            "imageUrl": "Boda Beso.webp",
+                            "link": [
+                                {
+                                    "name": "Cuernavaca, Morelos",
+                                    "dir": "https://visitmorelos.mx/experiencias/romance"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Santiago de Querétaro, Querétaro",
+                            "imageUrl": "Novios_Queretaro.webp",
+                            "link": [
+                                {
+                                    "name": "Santiago de Querétaro, Querétaro",
+                                    "dir": "https://queretaro.travel/tipo/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "San Cristóbal de las Casas, Chiapas",
+                            "imageUrl": "SanCristobaldelascasasBoda.webp",
+                            "link": [
+                                {
+                                    "name": "San Cristóbal de las Casas, Chiapas",
+                                    "dir": "https://visitchiapas.com/v1/San-cristobal-de-las-casas-romantico-san-cristobal-de-las-casas"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tuxtla Gutiérrez, Chiapas",
+                            "imageUrl": "TuxtlaGutierrezChiapas.webp",
+                            "link": [
+                                {
+                                    "name": "Tuxtla Gutiérrez, Chiapas",
+                                    "dir": "https://visitchiapas.com/v1/Tuxtla-gutierrez-romantico-tuxtla-gutierrez"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ANDERE",
+                    "descriptionInteractive": "Romantiktourismus umfasst besondere Feiern zu zweit oder mit der Familie, wie z. B. Erneuerung des Gelübdes, Junggesellen- und Junggesellinnenabschiede, Ringübergabe, Flitterwochen, Jubiläen, Babymond, Familienmond und mehr.",
+                    "links": [
+                        {
+                            "name": "Entrega de Anillo",
+                            "imageUrl": "Entrega_de_anillo_Queretaro.webp",
+                            "link": [
+                                {
+                                    "name": "Entrega de Anillo",
+                                    "dir": "https://queretaro.travel/tipo/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Family Moon",
+                            "imageUrl": "Familia.webp",
+                            "link": [
+                                {
+                                    "name": "Family Moon",
+                                    "dir": "https://es.golapaz.com/planea-tus-vacaciones/ideas-de-vacaciones/escapada-romantica/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aniversarios",
+                            "imageUrl": "Pareja.webp",
+                            "link": [
+                                {
+                                    "name": "Aniversarios",
+                                    "dir": "https://www.visitacapulco.travel/segmento/romance"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lunas de Miel",
+                            "imageUrl": "ZAC_zacatecasmina.webp",
+                            "link": [
+                                {
+                                    "name": "Lunas de Miel",
+                                    "dir": "https://zacatecas.travel/tipo/romance/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Despedida de Solteros",
+                            "imageUrl": "Despedida_Puerto_Vallarta.webp",
+                            "link": [
+                                {
+                                    "name": "Despedida de Solteros",
+                                    "dir": "https://visitapuertovallarta.com.mx/planea-tu-viaje/escapada-de-amigos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

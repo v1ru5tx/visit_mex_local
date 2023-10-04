@@ -1,0 +1,103 @@
+.experience-cards-ctn {
+  margin-top: 64px;
+  padding: 190px 0 90px 0;
+  background-image: url('../../assets/img/header/Fondorosa.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+}
+
+.experience-cards-ctn-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5%;
+  padding: 62px 32px;
+}
+
+.experience-cards-ctn-card {
+  flex: 1 0 29%;
+  border-right: 3px solid var(--gray);
+}
+
+.experience-cards-ctn-card:last-child {
+  border-right: none;
+  flex: 1 0 29%;
+}
+
+.experience-cards-card-title {
+  font-size: var(--txt-h5-xl);
+  margin: 0;
+}
+
+.experience-cards-card-date {
+  font-size: var(--txt-p-xl);
+  margin: 0;
+  font-weight: 700;
+}
+
+.experience-cards-ctn-card-date-description {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10%;
+  padding-right: 24px;
+}
+
+.experience-cards-ctn-card-date {
+  flex: 1 0 20%;
+}
+
+.experience-cards-card-date-month {
+  text-align: left;
+  font-size: var(--txt-title-xl);
+  font-weight: 700;
+  margin: 12px 0;
+}
+
+.experience-cards-ctn-card-day {
+  background: var(--yellow);
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 70px 55px 35px 55px;
+  border-color: transparent transparent #f1f1f1 transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.experience-cards-card-day {
+  font-size: var(--txt-title-xl);
+  margin: -68px 0 0 0;
+  color: #fff;
+  font-weight: 700;
+}
+
+.experience-cards-ctn-card-description {
+  flex: 1 0 69%;
+}
+
+.experience-cards-card-description {
+  font-size: var(--txt-p-xl);
+  margin-top: 42px;
+}
+
+.experience-cards-card-button {
+  background: var(--green);
+  font-size: var(--txt-title-xl);
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  float: right;
+  margin: 0;
+  padding: 12px;
+}
+
+.experience-cards-card-arrow {
+  height: 30px;
+}

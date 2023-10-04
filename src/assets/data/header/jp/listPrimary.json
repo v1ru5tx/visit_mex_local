@@ -1,0 +1,77 @@
+[
+	{ "name": "トレン・マヤ（マヤ観光鉄道）",
+		"dir": "/tren-maya"
+	},
+	{ "name":"エリアから探す",
+		"dir": "/destinos"
+	},
+	{ "name":"魔法の街を紹介",
+		"dir": "/pueblos-magicos"
+	},
+	{ "name": "国際イベント一覧",
+		"dir": "/eventos-internacionales"
+	},
+	{ "name":"体験談", 
+		"dir": "",
+		"menu": [
+			{
+				"name":"", 
+				"dir": "",
+				"image": "AguascalientesRutadelVino.webp",
+				"claseImage":"claseImage"
+			},
+			{
+				"name":"結婚式", 
+				"dir": "/experiencias/bodas",
+				"image": "Pareja-Queretaro-3.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"美食", 
+				"dir": "",
+				"image": "Dgo_Ciudad_Durango421.webp",
+				"claseImage":"header-submenu-link-img-primary",
+				"menu": [
+					{
+						"name":"メキシコは味です", 
+						"dir": "/experiencias/rutas-gastronomicas"
+					},
+					{
+						"name":"ワイン", 
+						"dir": "/experiencias/vinos"
+					}
+				]
+			},
+			{
+				"name":"太陽とビーチ", 
+				"dir": "/experiencias/sol-y-playa",
+				"image": "Qroo_cancun_playa108.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"冒険", 
+				"dir": "/experiencias/aventura",
+				"image": "SIN_guanacoa_257.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"福祉", 
+				"dir": "/experiencias/bienestar",
+				"image": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"持続可能な", 
+				"dir": "/experiencias/sostenible",
+				"image": "BCS_tiburonballena.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			}
+		]
+	},
+	{ "name":"マリアス諸島", 
+		"dir": "/islas-marias"
+	},
+	{ "name":"死霊のえじき", 
+		"dir": "/dia-de-muertos"
+	}
+]

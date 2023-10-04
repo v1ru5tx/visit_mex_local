@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "Vins",
+    "subtitle": "Découvrez les vins",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "Basse-Californie, vallée de Guadalupe ",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "Route des vins, Coahuila",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "Route des vins d'Aguascalientes",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "Route des vins, Querétaro",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "Notre pays produit des vins de haute qualité, dotés de grandes qualités organoleptiques qui font vivre une expérience unique à ceux qui les dégustent. De plus, dégustations, accords et visites des vignobles permettent de les déguster de manière substantielle, accompagné en famille, en couple ou entre amis."
+        },
+        {
+            "text": "Le Mexique compte 10 routes de renommée internationale, situées dans 6 États : Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo et Querétaro. Dans chacun d’eux vous attend une formidable visite gastronomique dont vous vous souviendrez pour toujours."
+        },
+        {
+            "text": "Visitez-les et dégustez les vins du Mexique !"
+        }
+    ],
+    "cardsGallery": [
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        },
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        },
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        }
+    ]
+}

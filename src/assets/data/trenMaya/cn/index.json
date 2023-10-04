@@ -1,0 +1,53 @@
+{
+    "title": "玛雅火车",
+    "subTitle":"玛雅火车",
+    "subTitle2":"玛雅火车",
+    "subTitle3":"玛雅火车",
+    "text":"这是一项新的铁路运输服务，将尤卡坦半岛的主要城市与旅游区相互连接起来。玛雅火车是一个将加强该地区领土规划、促进其旅游业的项目。该项目将产生经济溢出效应，增加尤卡坦半岛的连通性，保证货物与乘客更有效的流动",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=0&mute=0&loop=1"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1"
+        }
+
+    ]
+    
+}

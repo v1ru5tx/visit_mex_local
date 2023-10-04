@@ -1,0 +1,154 @@
+{
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/kXWMtOvf-Rk?autoplay=1&mute=1&loop=1",
+	"title": "メキシコ観光客ティアンギス 2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?autoplay=0&mute=0&loop=1",
+			"name": "ツーリスト・ティアンギスの結果"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Uf40GtVbG60?autoplay=0&mute=0&loop=1",
+			"name": "長年にわたるメキシコ"
+		}
+	],
+	"titleSlider": "今月の観光スポット",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/7GokE-3UBFw?autoplay=0&mute=0&loop=1",
+			"title": "August Tlaxcala"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?autoplay=0&mute=0&loop=1",
+			"title": "7月 ベラクルス"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i_BIh-F8EA8?autoplay=0&mute=0&loop=1",
+			"title": "6月 CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "メイ・イザマル"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/xkdr7GYG5pw?autoplay=0&mute=0&loop=1",
+			"title": "エイプリル・バカラル"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/a5zpkQ-FxUI?autoplay=0&mute=0&loop=1",
+			"title": "3月 サンクリストバル島"
+		}
+	],
+	"titleSliderGallery": "見逃せない",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/SSwVoghyKgw?autoplay=0&mute=0&loop=1",
+			"title": "メキシコは風味です"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/GuTjrjt2L4s?autoplay=0&mute=0&loop=1",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "考古学"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yTGCT8xJtLM?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/LQ-dqJPHc3A?autoplay=0&mute=0&loop=1",
+			"title": "Paracho"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/3sxnZFRCUgQ?autoplay=0&mute=0&loop=1",
+			"title": "Tequila"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/L_GBrxICTe4?autoplay=0&mute=0&loop=1",
+			"title": "コッパーキャニオン"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "考古学"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		}
+	],
+	"titleTravels": "有名人が語る",
+	"subTitleTravels": "旅のアドバイスを、現地有名人からもらおう",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/OkTR-H3yVEM?autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/-Yzq9BC_ocs?autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/XHWX9PPGNeE?autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ZSoH33KJilc?autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "旅の豆知識",
+	"subTitleTriTraveler": "メキシコのこと、どこまで知ってる？試してみよう。",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/uoCpf3o1zEg?autoplay=0&mute=0&loop=1",
+			"title": "手工芸品"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7Yoqsvvw1AU?autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/JYRVuHXLhuY?autoplay=0&mute=0&loop=1",
+			"title": "San Cristóbal"
+		}
+	],
+	"titleGallery": "メキシコを知る",
+	"subtitleGallery": "おそらくあなたがメキシコについて知らなかったいくつかの情報を共有します",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/aeqaUPkUDzU?autoplay=0&mute=0&loop=1",
+			"title": "FLAVORS FROM TABASCO"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HMBotewDNDs?autoplay=0&mute=0&loop=1",
+			"title": "Cuicuilco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/tw2F0-I3Tng?autoplay=0&mute=0&loop=1",
+			"title": "修道士の谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HCljfO9zg2g?autoplay=0&mute=0&loop=1",
+			"title": "アンバー"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ws-ef907aKg?autoplay=0&mute=0&loop=1",
+			"title": "Agave Tequila"
+		}
+	],
+	"titleBottom": "マサトランの大水族館",
+	"descriptionBottom": "グレート マサトラン水族館はメキシコ最大でラテンアメリカで最も重要なコルテス海専用の水族館です。 教育、研究、知識の普及に重点を置き、世界中の水族館のベンチマークとなるでしょう。",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?autoplay=0&mute=0&loop=1"
+}

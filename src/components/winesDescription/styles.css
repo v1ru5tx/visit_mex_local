@@ -1,0 +1,50 @@
+.wines-description-ctn {
+	padding: 160px 0 0 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 160px;
+	background-position: top;
+}
+
+.wines-description-content-ctn {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 24px;
+	padding: 32px;
+	background-image: url('../../assets/img/experiences/bg.webp');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: center;
+}
+
+.wines-description-content-ctn-text {
+	flex: 1 0 60%;
+	padding-right: 32px;
+}
+
+.wines-description-content-ctn-img {
+	flex: 1 0 30%;
+}
+
+.wines-description-content-title {
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--yellow);
+	font-size: var(--txt-title-xl);
+	text-align: left;
+}
+
+.wines-description-content-text {
+	font-size: var(--txt-h5-xl);
+	text-align: justify;
+}
+
+.wines-description-image {
+	height: 640px;
+	width: 100%;
+	object-fit: cover;
+	aspect-ratio: auto;
+}

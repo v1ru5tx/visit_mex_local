@@ -1,0 +1,17 @@
+[
+	{ "name":"Agenda", 
+		"dir": "/calendario"
+	},
+	{ "name":"Vidéos", 
+		"dir": "/videos"
+	},
+	{ "name":"téléchargements", 
+		"dir": "/descargas"
+	},
+	{ "name":"Blog", 
+		"dir": "/blog"
+	},
+	{ "name":"Guías Turísticas", 
+		"dir": "/guias-turisticas"
+	}
+]

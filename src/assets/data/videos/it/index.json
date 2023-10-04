@@ -1,0 +1,154 @@
+{
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/kXWMtOvf-Rk?autoplay=1&mute=1&loop=1",
+	"title": "Messico turistico Tianguis 2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?autoplay=0&mute=0&loop=1",
+			"name": "Risultati turistici Tianguis"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Uf40GtVbG60?autoplay=0&mute=0&loop=1",
+			"name": "Il Messico nel corso degli anni"
+		}
+	],
+	"titleSlider": "Destinazione del mese.",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/7GokE-3UBFw?autoplay=0&mute=0&loop=1",
+			"title": "August Tlaxcala"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?autoplay=0&mute=0&loop=1",
+			"title": "Luglio Veracruz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i_BIh-F8EA8?autoplay=0&mute=0&loop=1",
+			"title": "Giugno CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "Maggio Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/xkdr7GYG5pw?autoplay=0&mute=0&loop=1",
+			"title": "Aprile Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/a5zpkQ-FxUI?autoplay=0&mute=0&loop=1",
+			"title": "marzo San Cristóbal"
+		}
+	],
+	"titleSliderGallery": "L'imperdibile.",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/SSwVoghyKgw?autoplay=0&mute=0&loop=1",
+			"title": "Il Messico è sapore"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/GuTjrjt2L4s?autoplay=0&mute=0&loop=1",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "Archeologia"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yTGCT8xJtLM?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/LQ-dqJPHc3A?autoplay=0&mute=0&loop=1",
+			"title": "Paracho"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/3sxnZFRCUgQ?autoplay=0&mute=0&loop=1",
+			"title": "Tequila"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/L_GBrxICTe4?autoplay=0&mute=0&loop=1",
+			"title": "Canyon di rame"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "Archeologia"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		}
+	],
+	"titleTravels": "Così viaggiano.",
+	"subTitleTravels": "Le star ti danno dei consigli per viaggiare.",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/OkTR-H3yVEM?autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/-Yzq9BC_ocs?autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/XHWX9PPGNeE?autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ZSoH33KJilc?autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "Triviaggiatore",
+	"subTitleTriTraveler": "Quanto conosci il Messico? Mettiti a prova.",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/uoCpf3o1zEg?autoplay=0&mute=0&loop=1",
+			"title": "Artigianato"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7Yoqsvvw1AU?autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/JYRVuHXLhuY?autoplay=0&mute=0&loop=1",
+			"title": "San Cristóbal"
+		}
+	],
+	"titleGallery": "Conoscendo il Messico.",
+	"subtitleGallery": "Scopri il Messico tramite le sue fiere nazionali e la sua cultura.",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/aeqaUPkUDzU?autoplay=0&mute=0&loop=1",
+			"title": "FLAVORS FROM TABASCO"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HMBotewDNDs?autoplay=0&mute=0&loop=1",
+			"title": "Cuicuilco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/tw2F0-I3Tng?autoplay=0&mute=0&loop=1",
+			"title": "Valle dei monaci"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HCljfO9zg2g?autoplay=0&mute=0&loop=1",
+			"title": "Ambra"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ws-ef907aKg?autoplay=0&mute=0&loop=1",
+			"title": "Agave Tequila"
+		}
+	],
+	"titleBottom": "GRANDE ACQUARIO DI MAZATLAN",
+	"descriptionBottom": "Il Grande Acquario di Mazatlán, è il più grande del Messico e il più importante dell'America Latina, dedicato al Mar di Cortez. Con particolare attenzione all'istruzione, alla ricerca e alla diffusione della conoscenza, costituirà un punto di riferimento negli acquari di tutto il mondo.",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?autoplay=0&mute=0&loop=1"
+}

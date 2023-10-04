@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "葡萄酒",
+    "subtitle": "探索葡萄酒",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "下加利福尼亞州，瓜達盧佩谷 ",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "葡萄酒之路，科阿韋拉州",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "阿瓜斯卡連特斯葡萄酒之路",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "葡萄酒之路，克雷塔羅",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "我國出產高品質葡萄酒，其感官品質極佳，讓品嚐者獲得獨特的體驗。 此外，品嚐、搭配和參觀葡萄園可以讓您在家人、伴侶或朋友的陪伴下以一種實質性的方式品嚐它們。"
+        },
+        {
+            "text": "墨西哥有10條國際知名航線，分佈在6個州：阿瓜斯卡連特斯州、下加利福尼亞州、科阿韋拉州、瓜納華托州、伊達爾戈州和克雷塔羅州。 每間餐廳都將為您帶來一場精彩的美食之旅，讓您終生難忘。"
+        },
+        {
+            "text": "拜訪他們並品嚐墨西哥的葡萄酒！"
+        }
+    ],
+    "cardsGallery": [
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        },
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        },
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "urlImagenTop": "blog/principal.jpg",
+  "title": "BLOG",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "urlImg": "blog/manoEsferas.png",
+      "name": "Esferas ou bolas de Natal, uma arte em vidro que decora as festas natalinas no México.",
+      "text": "O Natal no México é uma tradição profundamente enraizada e única no mundo. Ano após ano, o país é adornado com esferas feitas pelas mágicas mãos de mestres artesãos que usam a técnica do vidro soprado para criar lindas bolas de Natal que realçam a festividade.",
+      "urlPost": "/post",
+      "post": 1
+    },
+    {
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "10 Atividades que você pode fazer em Cozumel",
+      "text": "No Caribe mexicano, encontra-se uma das ilhas paradisíacas mais valorizadas do México, Cozumel, cuja riqueza natural combina perfeitamente com o legado da cultura maia e sua moderna infraestrutura para receber os turistas, como seu aeroporto internacional, sua área hoteleira e o cais apto para receber grandes navios de cruzeiro.",
+      "urlPost": "/post",
+      "post": 2
+    }
+  ]
+}

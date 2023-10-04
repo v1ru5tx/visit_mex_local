@@ -1,0 +1,76 @@
+.home-sun-beach-and-sand-ctn {
+  background: var(--blue);
+  height: 870px;
+  width: 100%;
+  box-sizing: border-box;
+  padding-top: 5%;
+  background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+}
+
+.home-sun-beach-and-sand-ctn-card {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  
+}
+
+.home-sun-beach-and-sand-ctn-card-img {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.home-sun-beach-and-sand-card-img {
+  width: 100%;
+  height: 870px;
+  aspect-ratio: auto;
+  object-fit: cover;
+}
+
+.home-sun-beach-and-sand-ctn-card-description {
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  width: 70%;
+  min-height: 450px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 35px;
+  box-shadow: 7px 5px 9px var(--gray);
+  text-overflow: ellipsis;
+}
+
+.home-sun-beach-and-sand-card-description-title {
+  font-size: var(--txt-h2-xl);
+  font-weight: 700;
+  color: var(--yellow);
+  border-bottom: 5px solid var(--yellow);
+  width: 420px;
+}
+
+.home-sun-beach-and-sand-card-description-subtitle {
+  font-size: var(--txt-h5-xl);
+  font-weight: 700;
+  color: var(--gray);
+}
+
+.home-sun-beach-and-sand-card-description-description {
+  font-size: var(--txt-h5-xl);
+  color: var(--gray);
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: justify;
+}
+
+.home-sun-beach-and-sand-card-description-button {
+  text-decoration: none;
+  color: #fff;
+  background: var(--blue);
+  font-size: var(--txt-p-xl);
+  padding: 16px 24px;
+  float: right;
+}

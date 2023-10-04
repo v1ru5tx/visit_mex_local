@@ -1,0 +1,21 @@
+{
+  "urlImagenTop": "blog/principal.jpg",
+  "title": "BLOG",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "urlImg": "blog/manoEsferas.png",
+      "name": "Glass spheres, an art that embellishes Christmas in Mexico.",
+      "text": "Christmas in Mexico is a deep-rooted tradition unique in the world, bedecked year after year with spheres made by the magical hands of master craftsmen who use the blown glass technique, shaping these garnishes that exalt this festivity",      "urlPost": "/post",
+      "post": 1
+    },
+    {
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "10 Activities you can do in Cozumel",
+      "text": "In the Mexican Caribbean lies Cozumel, one of Mexico's most prized island paradises. Its abundance of natural resources merges perfectly with both the Mayan Culture legacy and modern infrastructure —such as its international airport, its hotel area and a dock suitable for large cruise ships— to receive tourism.",
+      "urlPost": "/post",
+      "post": 2
+    }
+  ]
+}

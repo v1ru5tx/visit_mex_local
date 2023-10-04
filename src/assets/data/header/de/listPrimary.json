@@ -1,0 +1,77 @@
+[
+	{ "name": "Der Maya-Zug",
+		"dir": "/tren-maya"
+	},
+	{ "name": "Bundesstaaten",
+		"dir": "/destinos"
+	},
+	{ "name": "Magische Stätte",
+		"dir": "/pueblos-magicos"
+	},
+	{ "name": "Internationale Veranstaltungen",
+		"dir": "/eventos-internacionales"
+	},
+	{ "name": "Geübtheit",
+		"dir": "",
+		"menu": [
+			{
+				"name":"", 
+				"dir": "",
+				"image": "AguascalientesRutadelVino.webp",
+				"claseImage":"claseImage"
+			},
+			{
+				"name":"Hochzeit", 
+				"dir": "/experiencias/bodas",
+				"image": "Pareja-Queretaro-3.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Gastronomie", 
+				"dir": "",
+				"image": "Dgo_Ciudad_Durango421.webp",
+				"claseImage":"header-submenu-link-img-primary",
+				"menu": [
+					{
+						"name":"Mexiko ist Geschmack", 
+						"dir": "/experiencias/rutas-gastronomicas"
+					},
+					{
+						"name":"Weine", 
+						"dir": "/experiencias/vinos"
+					}
+				]
+			},
+			{
+				"name":"Sonne und Strand", 
+				"dir": "/experiencias/sol-y-playa",
+				"image": "Qroo_cancun_playa108.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Abenteuer", 
+				"dir": "/experiencias/aventura",
+				"image": "SIN_guanacoa_257.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Wohlfahrt", 
+				"dir": "/experiencias/bienestar",
+				"image": "MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			},
+			{
+				"name":"Nachhaltig", 
+				"dir": "/experiencias/sostenible",
+				"image": "BCS_tiburonballena.webp",
+				"claseImage":"header-submenu-link-img-primary"
+			}
+		]
+	},
+	{ "name":"Marias-Inseln", 
+		"dir": "/islas-marias"
+	},
+	{ "name":"Tag der Toten", 
+		"dir": "/dia-de-muertos"
+	}
+]

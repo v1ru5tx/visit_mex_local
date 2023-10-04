@@ -1,0 +1,15 @@
+.international-events-header-ctn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 64px;
+}
+
+.international-events-header-title {
+	font-size: var(--txt-title-xl);
+  color: var(--purple);
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+	margin: 0;
+}

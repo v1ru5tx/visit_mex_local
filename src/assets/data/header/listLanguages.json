@@ -1,0 +1,26 @@
+[
+	{ "name":"🇲🇽 Español", 
+		"value": "ES"
+	},
+	{ "name":"🇺🇸 English", 
+		"value": "EN"
+	},
+	{ "name":"🇫🇷 Français", 
+		"value": "FR"
+	},
+	{ "name":"🇩🇪 Deutsch", 
+		"value": "DE"
+	},
+	{ "name":"🇵🇹 Português", 
+		"value": "PT"
+	},
+	{ "name":"🇮🇹 Italiano", 
+		"value": "IT"
+	},
+	{ "name":"🇯🇵 日本語", 
+		"value": "JP"
+	},
+	{ "name":"🇨🇳 中国人", 
+		"value": "CN"
+	}
+]

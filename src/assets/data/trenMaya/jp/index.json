@@ -1,0 +1,53 @@
+{
+    "title": "マヤ観光鉄道",
+    "subTitle":"マヤ観光鉄道",
+    "subTitle2":"マヤ観光鉄道",
+    "subTitle3":"マヤ観光鉄道",
+    "text":"ユカタン半島の主要都市と観光地を結ぶ新しい高速鉄道です。マヤ観光鉄道は、この地域の領土秩序を強化し、観光産業を発展させる目的で作られたプロジェクトです。これにより経済的利益がもたらされ、ユカタン半島の接続性が向上し、貨物と乗客の効率的な移動が可能になります",
+    "imgUrl":"trenMaya/TulumQuintanaRoo.webp",
+    "urlVideo": "https://www.youtube.com/embed/r8EDwvRJXIE?autoplay=1&mute=1&loop=1",
+    "subText": [
+       
+    ],
+    "gallery":[
+        {
+            "title":"",
+            "imgUrl":"trenMaya/BacalarQuintanaRoo.webp",
+            "clase":"imagen1"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/ChichenItzaYucatan.webp",
+            "clase":"imagen2"
+        },
+        {
+            "title":"",
+            "imgUrl":"trenMaya/IzamalYucatanpan.webp",
+            "clase":"imagen3"
+        }
+    ],
+    "videos":[
+        {
+        "title":"Campeche",
+        "urlVideo":"https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=0&mute=0&loop=1"
+        },
+        {
+        "title":"Tabasco",
+        "urlVideo":"https://www.youtube.com/embed/noJ6i36csXQ?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Chiapas",
+            "urlVideo":"https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Yucatán",
+            "urlVideo":"https://www.youtube.com/embed/aDjSaYjccbE?autoplay=0&mute=0&loop=1"
+        },
+        {
+            "title":"Quintana Roo, Cancún",
+            "urlVideo":"https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=0&mute=0&loop=1"
+        }
+
+    ]
+    
+}

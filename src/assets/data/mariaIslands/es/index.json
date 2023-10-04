@@ -1,0 +1,50 @@
+{
+    "id": "islas-marias",
+    "title": "Islas Marías",
+    "subtitle": "Descubre Islas Marías",
+    "urlVideo":"https://www.youtube.com/embed/CYejibc2Gh0?autoplay=1&mute=1&loop=1",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Faro Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Mirado Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "Las Islas Marías fueron, durante más de 100 años, la sede de uno de los centros penitenciarios más temidos, el cual, ahora es un nuevo destino turístico donde se respira libertad, se promueve la educación ambiental, la cultura y las artes. La combinación perfecta para unas vacaciones inolvidables."
+        },
+        {
+            "text": "Se encuentran en el estado de Nayarit, y están integrados por las islas María Magdalena, María Cleofas, San Juanito y María Madre. La importancia de estas islas radica en su enorme biodiversidad, pues en el año 2000 se declararon Área Natural Protegida, con carácter de Reserva de la Biosfera. Es reconocida por la UNESCO debido a su flora y fauna endémica, que va desde manglares hasta arrecifes coralinos, pasando por numerosas especies animales, algunas de ellas en peligro de extinción."
+        }
+        
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Plaza Juarez",
+            "dir": "https://visitaislasmarias.com/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Puerto Balleto",
+            "dir": "https://visitaislasmarias.com/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Estación Aeronaval Isla Maria Madre",
+            "dir": "https://visitaislasmarias.com/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Mural Pueblo Principal",
+            "dir": "https://visitaislasmarias.com/"
+        }
+    ]
+}

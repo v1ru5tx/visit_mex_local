@@ -1,0 +1,42 @@
+.videos-title-ctn {
+	box-sizing: border-box;
+	padding: 190px 0 0 0;
+  background-image: url('../../assets/img/header/liston-azul.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+}
+
+.videos-title-title {
+	text-align: center;
+	font-size: var(--txt-title-xl);
+	font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+	color: var(--blue);
+}
+
+.videos-title-ctn-videos {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 3%;
+	padding: 32px;
+	box-sizing: border-box;
+}
+
+.videos-title-ctn-video {
+	flex: 1 0 40%;
+	height: 100%;
+	width: 100%;
+	aspect-ratio: 2/1;
+}
+
+.videos-title-video {
+	border-radius: 12px;
+}
+
+.videos-title-video-description {
+	text-align: center;
+	font-size: var(--txt-h5-xl);
+	font-weight: 700;
+	text-transform: uppercase;
+}

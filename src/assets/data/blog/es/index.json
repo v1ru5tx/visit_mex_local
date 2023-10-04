@@ -1,0 +1,22 @@
+{
+  "urlImagenTop": "blog/principal.jpg",
+  "title": "BLOG ",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "urlImg": "blog/manoEsferas.png",
+      "name": "ESFERAS, ARTE EN VIDRIO QUE ENGALANA LA NAVIDAD EN MÉXICO",
+      "text": "La Navidad en México es una arraigada tradición única en el mundo, que año con año se ve engalanada con las esferas que elaboran las manos mágicas de maestros artesanos que hacen de la técnica del vidrio soplado, bellas creaciones que enaltecen esta festividad.",
+      "urlPost": "/post",
+      "post": 1
+    },
+    {
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "10 Actividades que puedes realizar en Cozumel",
+      "text": "En el Caribe Mexicano se encuentra uno de los paraísos insulares más preciados de México, Cozumel, cuya riqueza natural se combina a la perfección con el legado de la Cultura Maya y su moderna infraestructura para recibir al turismo, como su aeropuerto internacional, su zona hotelera y el muelle apto para recibir cruceros de gran tamaño.",
+      "urlPost": "/post",
+      "post": 2
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+.destination-slider-ctn {
+	padding: 90px 0 0;
+	background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: top;
+	position: relative;
+}
+
+.destination-slider-ctn-images {
+	display: flex;
+	box-sizing: border-box;
+}
+
+.destination-slider-ctn-slide-images {
+	min-width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  transition: all 1s;
+}
+
+.destination-slider-slide-images {
+	height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position: relative;
+  cursor: pointer;
+  aspect-ratio: 19/6;
+}
+
+.destination-slider-ctn-buttons {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	max-height: 100%;
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+}
+
+.destination-slider-buttons {
+	background: none;
+	border: none;
+	cursor: pointer;
+}
+
+.destination-slider-buttons-img {
+	height: 62px;
+	width: 62px;
+}
+
+.destination-slider-ctn-link {
+	position: absolute;
+	bottom: 24px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.destination-slider-link {
+	height: 100%;
+	width: 230px;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	background: #d92830;
+	padding: 12px;
+	color: #fff;
+	font-size: var(--txt-h5-xl);
+	border-radius: 5px;
+}

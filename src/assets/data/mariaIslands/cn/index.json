@@ -1,0 +1,48 @@
+{
+    "id": "islas-marias",
+    "title": "馬里亞斯群島",
+    "subtitle": "探索瑪麗亞斯島",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "燈塔 Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "看起來 Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "一百多年來，馬里亞斯群島一直是最令人畏懼的監獄中心之一的總部，現在這裡已成為一個新的旅遊目的地，在這裡可以呼吸自由，促進環境教育、文化和藝術。 完美的組合，打造難忘的假期。"
+        },
+        {
+            "text": "它們位於納亞里特州，由瑪麗亞馬格達萊納島、瑪麗亞克萊奧法斯島、聖華尼托島和瑪麗亞馬德雷島組成。 這些島嶼的重要性在於其巨大的生物多樣性，自 2000 年起它們被宣佈為自然保護區，即生物圈保護區。 它因其特有的動植物群而獲得聯合國教科文組織的認可，範圍從紅樹林到珊瑚礁，包括眾多動物物種，其中一些面臨滅絕的危險。"
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "正方形 Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "港口 Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "海軍航空站 Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "主要城鎮壁畫",
+            "dir": "/"
+        }
+    ]
+}

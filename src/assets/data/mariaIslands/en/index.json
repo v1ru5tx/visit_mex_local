@@ -1,0 +1,48 @@
+{
+    "id": "islas-marias",
+    "title": "Marias Islands",
+    "subtitle": "Discover Islas Marías",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "Lighthouse Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "Looked Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "The Marías Islands were, for more than 100 years, the headquarters of one of the most feared penitentiary centers, which is now a new tourist destination where freedom can be breathed, environmental education, culture and the arts are promoted. The perfect combination for an unforgettable vacation."
+        },
+        {
+            "text": "They are located in the state of Nayarit, and are made up of the María Magdalena, María Cleofas, San Juanito and María Madre islands. The importance of these islands lies in their enormous biodiversity, since in 2000 they were declared a Protected Natural Area, as a Biosphere Reserve. It is recognized by UNESCO due to its endemic flora and fauna, which ranges from mangroves to coral reefs, including numerous animal species, some of them in danger of extinction."
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "Square Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "Port Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "Naval Air Station Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "Main Town Mural",
+            "dir": "/"
+        }
+    ]
+}

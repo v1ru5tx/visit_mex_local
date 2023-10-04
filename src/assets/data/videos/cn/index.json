@@ -1,0 +1,154 @@
+{
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/kXWMtOvf-Rk?autoplay=1&mute=1&loop=1",
+	"title": "墨西哥旅遊天吉斯 2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?autoplay=0&mute=0&loop=1",
+			"name": "旅遊天吉斯結果"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Uf40GtVbG60?autoplay=0&mute=0&loop=1",
+			"name": "墨西哥這些年來"
+		}
+	],
+	"titleSlider": "本月最佳目的地",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/7GokE-3UBFw?autoplay=0&mute=0&loop=1",
+			"title": "August Tlaxcala"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?autoplay=0&mute=0&loop=1",
+			"title": "七月韋拉克魯斯"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i_BIh-F8EA8?autoplay=0&mute=0&loop=1",
+			"title": "六月CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "梅·伊紮馬爾"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/xkdr7GYG5pw?autoplay=0&mute=0&loop=1",
+			"title": "艾普里爾·巴卡拉爾"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/a5zpkQ-FxUI?autoplay=0&mute=0&loop=1",
+			"title": "聖克里斯托瓦爾三月"
+		}
+	],
+	"titleSliderGallery": "机不可失",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/SSwVoghyKgw?autoplay=0&mute=0&loop=1",
+			"title": "墨西哥很有味道"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/GuTjrjt2L4s?autoplay=0&mute=0&loop=1",
+			"title": "穆茲奎茲"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "考古學"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yTGCT8xJtLM?autoplay=0&mute=0&loop=1",
+			"title": "男孩的礦石"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/LQ-dqJPHc3A?autoplay=0&mute=0&loop=1",
+			"title": "降落傘"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/3sxnZFRCUgQ?autoplay=0&mute=0&loop=1",
+			"title": "龍舌蘭酒"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/L_GBrxICTe4?autoplay=0&mute=0&loop=1",
+			"title": "銅峽谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "考古學"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?autoplay=0&mute=0&loop=1",
+			"title": "男孩的礦石"
+		}
+	],
+	"titleTravels": "名人如何旅行",
+	"subTitleTravels": "名人为你提供旅行建议",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/OkTR-H3yVEM?autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/-Yzq9BC_ocs?autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/XHWX9PPGNeE?autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ZSoH33KJilc?autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "旅行者冷知识",
+	"subTitleTriTraveler": "你对墨西哥了解多少？亲昵做个小测验吧！",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/uoCpf3o1zEg?autoplay=0&mute=0&loop=1",
+			"title": "手工藝品"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7Yoqsvvw1AU?autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "伊薩馬爾"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?autoplay=0&mute=0&loop=1",
+			"title": "巴卡拉爾"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/JYRVuHXLhuY?autoplay=0&mute=0&loop=1",
+			"title": "聖克里斯托瓦爾"
+		}
+	],
+	"titleGallery": "了解墨西哥",
+	"subtitleGallery": "请你通过国家博览会与传统文化来发现墨西哥",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/1kUCbDgSkVU?autoplay=0&mute=0&loop=1",
+			"title": "黑武士"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HMBotewDNDs?autoplay=0&mute=0&loop=1",
+			"title": "奎奎爾科"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/tw2F0-I3Tng?autoplay=0&mute=0&loop=1",
+			"title": "僧侶谷"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HCljfO9zg2g?autoplay=0&mute=0&loop=1",
+			"title": "琥珀色"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ws-ef907aKg?autoplay=0&mute=0&loop=1",
+			"title": "龍舌蘭龍舌蘭酒"
+		}
+	],
+	"titleBottom": "馬薩特蘭大水族館",
+	"descriptionBottom": "大馬薩特蘭水族館是墨西哥最大、拉丁美洲最重要的水族館，專門展示科爾特斯海。 它將專注於教育、研究和知識傳播，將為世界水族館樹立標杆。",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?autoplay=0&mute=0&loop=1"
+}

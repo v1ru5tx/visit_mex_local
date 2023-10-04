@@ -1,0 +1,139 @@
+.calendare-known-subtitle{
+    text-align: center !important;
+}
+.guias-contenedor{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.guias-item{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    cursor: pointer;
+}
+.guias-item:hover{
+    opacity: 0.5;
+    transition: 0.4s;
+  }
+
+.guias-item img{
+    width: 100%;
+    border-radius: 10px;
+}
+.guias-texto{
+    text-align: center;
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    color: #EEB526;
+}
+
+
+/*====MODAL====*/
+.modalGuides{
+    transform: translate(-50, -50%);
+    background-color:#F5F0EF;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.modalGuides2{
+    position:relative;
+    background-color: #7d7d7d;
+    
+ }
+
+.guias-modal{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.guias-modal-content{
+    width: 50%;
+    height: auto;
+    background: white;
+    border-radius: 10px;
+}
+.guias-modal-header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #CECECE;
+}
+.guias-modal-title{
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #B21F67;
+    padding: 10px 25px;
+    margin: 10px 0;
+}
+.guias-modal-close{
+    font-size: 18px;
+    color: #bbb;
+    padding: 5px;
+    border-radius: 5px;
+    align-content: center;
+    vertical-align: center;
+    height: 3%;
+}
+
+.guias-modal-close:hover {
+    background: #bbb; 
+    color: #fff;
+  }
+
+.guias-modal-text{
+    font-size: medium;
+    font-weight: 700;
+    color: #7d7d7d;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+}
+.guias-modal-downloads{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.guias-modal-download{
+    width: 200px;
+    margin: 10px;
+}
+.guias-modal-download img{
+    width: 100%;
+}
+.guias-modal-download-text{
+    font-size: var(--txt-h5-xl);
+    font-weight: 700;
+    color: #EEB526;
+    padding: 10px;
+    margin:0px auto;
+    text-align: center;
+}
+
+
+.guias-modal-body{
+    overflow: scroll;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+}
+
+

@@ -1,0 +1,32 @@
+.destination-description-ctn {
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 42px;
+}
+
+.destination-description-desc-ctn {
+  margin-top: 120px;
+  padding: 0 42px;
+  flex: 1 0 40%;
+}
+
+.destination-description-desc-text-title {
+  text-align: center;
+  font-size: var(--txt-title-xl);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 62px;
+  color: var(--pink);
+}
+
+.destination-description-desc-text-desc {
+  /*list-style: none;*/
+}
+
+.destination-description-desc-text-desc-li {
+  font-size: var(--txt-h5-xl);
+  margin: 18px 0;
+  text-align: justify;
+}

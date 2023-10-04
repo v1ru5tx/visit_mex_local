@@ -1,0 +1,15 @@
+.home-slider-video-cards-ctn {
+  height: 970px;
+  background: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+
+.css-1qzevvg {
+  position: absolute !important;
+  z-index: 2;
+  bottom: 37px;
+  left: calc(41.5vw - 40px);
+  color: #fff;
+  cursor: pointer;
+}

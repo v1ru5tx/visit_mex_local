@@ -1,0 +1,107 @@
+.maria-islands-gallery-ctn {
+	padding: 160px 0 0 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url('../../assets/img/header/Fondorosa.webp');
+	background-repeat: no-repeat;
+	background-size: 100% 160px;
+	background-position: top;
+}
+
+.maria-islands-gallery-ctn-title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 32px;
+	height: 100%;
+	width: 100%;
+}
+
+.maria-islands-gallery-title {
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: 1px;
+	color: var(--purple);
+	font-size: var(--txt-title-xl);
+	text-align: center;
+}
+
+.maria-islands-gallery-content-ctn {
+	display: grid;
+	grid-template-areas: 
+	"a a b b"
+  	"a a c d";
+	gap: 32px;
+	padding: 32px 32px 64px 32px;
+	height: 670px;
+}
+
+
+.maria-islands-gallery-content-ctn-img-0 {
+	grid-area: a;
+	position: relative;
+  	height: calc(670px + 32px);
+	overflow: hidden;
+}
+
+.maria-islands-gallery-content-ctn-img-1 {
+	grid-area: b;
+	position: relative;
+  	height: calc(670px / 2);
+	overflow: hidden;
+}
+
+.maria-islands-gallery-content-ctn-img-2 {
+	grid-area: c;
+	position: relative;
+  	height: calc(670px / 2);
+	overflow: hidden;
+}
+
+.maria-islands-gallery-content-ctn-img-3 {
+	grid-area: d;
+	position: relative;
+  	height: calc(670px / 2);
+	overflow: hidden;
+}
+
+.maria-islands-gallery-image {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	aspect-ratio: auto;
+	border-radius: 10px;
+}
+
+.maria-islands-gallery-content-ctn-img-0:hover .maria-islands-gallery-ctn-img-experience-description,
+.maria-islands-gallery-content-ctn-img-1:hover .maria-islands-gallery-ctn-img-experience-description,
+.maria-islands-gallery-content-ctn-img-2:hover .maria-islands-gallery-ctn-img-experience-description,
+.maria-islands-gallery-content-ctn-img-3:hover .maria-islands-gallery-ctn-img-experience-description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.maria-islands-gallery-content-ctn-img-0:hover .maria-islands-gallery-image,
+.maria-islands-gallery-content-ctn-img-1:hover .maria-islands-gallery-image,
+.maria-islands-gallery-content-ctn-img-2:hover .maria-islands-gallery-image,
+.maria-islands-gallery-content-ctn-img-3:hover .maria-islands-gallery-image {
+	transform: scale(1.2);
+ 	transition: 0.4s;
+}
+
+.maria-islands-gallery-ctn-img-experience-description {
+	display: none;
+}
+
+.maria-islands-gallery-img-experience-description {
+	text-align: center;
+	font-size: var(--txt-h5-xl);
+	font-weight: 700;
+	color: #fff;
+}

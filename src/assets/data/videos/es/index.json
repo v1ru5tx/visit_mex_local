@@ -1,0 +1,152 @@
+{
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/TPBcQ7e5EIQ?autoplay=1&mute=1&loop=1",
+	"title": "Tianguis Turístico México 2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?autoplay=0&mute=0&loop=1",
+			"name": "Resultados Tianguis Turístico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Uf40GtVbG60?autoplay=0&mute=0&loop=1",
+			"name": "México a través de los años"
+		}
+	],
+	"titleSlider": "Destino del Mes",
+	"subTitleSlider": "Conoce los principales destinos por estado, tesoros coloniales y ciudades patrimonio de México",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?autoplay=0&mute=0&loop=1",
+			"title": "julio Veracruz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/A5G3t-2FEys?autoplay=0&mute=0&loop=1",
+			"title": "junio CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/lb6PrPC17Bw?autoplay=0&mute=0&loop=1",
+			"title": "mayo Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/xkdr7GYG5pw?autoplay=0&mute=0&loop=1",
+			"title": "abril Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/a5zpkQ-FxUI?autoplay=0&mute=0&loop=1",
+			"title": "marzo San Cristóbal"
+		}
+	],
+	"titleSliderGallery": "Lo Imperdible",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/SSwVoghyKgw?autoplay=0&mute=0&loop=1",
+			"title": "México es sabor"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/GuTjrjt2L4s?autoplay=0&mute=0&loop=1",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "Arqueología"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/LQ-dqJPHc3A?autoplay=0&mute=0&loop=1",
+			"title": "Paracho"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/3sxnZFRCUgQ?autoplay=0&mute=0&loop=1",
+			"title": "Tequila"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/L_GBrxICTe4?autoplay=0&mute=0&loop=1",
+			"title": "Barrancas del cobre"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "Arqueología"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		}
+	],
+	"titleTravels": "Así Viajan",
+	"subTitleTravels": "Personalidades que te dan tips para viajar.",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/OkTR-H3yVEM?autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/8I0bQgC1418?autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/NVjiuvJM4lo?autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/r1_UKN1WtSw?autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "Triviajero",
+	"subTitleTriTraveler": "¿Qué tanto sabes de México? Ponte a prueba.",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/QS1QlPLeFQc?autoplay=0&mute=0&loop=1",
+			"title": "Artesanías"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7Yoqsvvw1AU?autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rBDFpoWL8kE?autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/f3kpvIAJxUw?autoplay=0&mute=0&loop=1",
+			"title": "COMALA"
+		}
+	],
+	"titleGallery": "Conociendo México",
+	"subtitleGallery": "Te compartimos algunos datos que quizás no conocías de México",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/puLTwkxullM?autoplay=0&mute=0&loop=1",
+			"title": "SABORES DE TABASCO"
+		},
+		
+		{
+			"videoUrl": "https://www.youtube.com/embed/HMBotewDNDs?autoplay=0&mute=0&loop=1",
+			"title": "Cuicuilco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/JtR7GhxDCD8?autoplay=0&mute=0&loop=1",
+			"title": "Valle de los monjes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HCljfO9zg2g?autoplay=0&mute=0&loop=1",
+			"title": "Ámbar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ws-ef907aKg?autoplay=0&mute=0&loop=1",
+			"title": "Agave Tequila"
+		}
+	],
+	"titleBottom": "GRAN ACUARIO DE MAZATLÁN",
+	"descriptionBottom": "Gran Acuario Mazatlán, es el más grande de México y más importante en Latinoamérica, dedicado al Mar de Cortés. Con un enfoque en la educación, la investigación y divulgación del conocimiento, marcará un referente en los acuarios del mundo.",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?autoplay=0&mute=0&loop=1"
+}

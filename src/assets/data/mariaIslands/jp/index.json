@@ -1,0 +1,48 @@
+{
+    "id": "islas-marias",
+    "title": "マリアス諸島",
+    "subtitle": "マリアス島を発見する",
+    "gallerySlider": [
+        {
+            "urlImg": "islasmarias2.webp",
+            "name": "灯台 Puerto Balleto ",
+            "dir": "https://visitaislasmarias.com/ "
+        },
+        {
+            "urlImg": "islasmarias7.webp",
+            "name": "見た Cristo",
+            "dir": "/"
+        }
+    ],
+    "urlImg": "islasmarias6.webp",
+    "description": [
+        {
+            "text": "マリアス諸島は、100 年以上にわたり、最も恐れられている刑務所の本拠地でしたが、現在は自由が息づき、環境教育、文化、芸術が促進される新たな観光地となっています。 忘れられない休暇に最適な組み合わせです。"
+        },
+        {
+            "text": "ナヤリット州に位置し、マリア・マグダレナ島、マリア・クレオファス島、サン・フアニト島、マリア・マドレ島で構成されています。 これらの島々の重要性は、その膨大な生物多様性にあります。2000 年にこれらの島々は生物圏保護区として自然保護区に指定されています。 マングローブからサンゴ礁に至るまで、数多くの動物種を含む固有の動植物が生息しており、その中には絶滅の危機に瀕している動物も含まれているため、ユネスコによって認められています。"
+        }
+    ],
+    "gallery": [
+        {
+            "urlImg": "islasmarias5.webp",
+            "name": "四角 Juarez",
+            "dir": "/"
+        },
+        {
+            "urlImg": "IslasMarias.webp",
+            "name": "ポート Balleto",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias4.webp",
+            "name": "海軍航空基地 Isla Maria Madre",
+            "dir": "/"
+        },
+        {
+            "urlImg": "islasmarias3.webp",
+            "name": "メインタウンの壁画",
+            "dir": "/"
+        }
+    ]
+}

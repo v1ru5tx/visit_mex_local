@@ -1,0 +1,154 @@
+{
+	"id": "videos",
+	"urlVideoTop": "https://www.youtube.com/embed/kXWMtOvf-Rk?autoplay=1&mute=1&loop=1",
+	"title": "Mexiko Tourist Tianguis 2023",
+	"videosTop": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/q_8XWtdqcLA?autoplay=0&mute=0&loop=1",
+			"name": "Touristische Tianguis-Ergebnisse"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/Uf40GtVbG60?autoplay=0&mute=0&loop=1",
+			"name": "Mexiko im Wandel der Zeit"
+		}
+	],
+	"titleSlider": "REISEZIEL DES MONATS",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/7GokE-3UBFw?autoplay=0&mute=0&loop=1",
+			"title": "August Tlaxcala"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K6yj7d160c4?autoplay=0&mute=0&loop=1",
+			"title": "Juli Veracruz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/i_BIh-F8EA8?autoplay=0&mute=0&loop=1",
+			"title": "Juni CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "Mai Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/xkdr7GYG5pw?autoplay=0&mute=0&loop=1",
+			"title": "April Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/a5zpkQ-FxUI?autoplay=0&mute=0&loop=1",
+			"title": "März San Cristobal"
+		}
+	],
+	"titleSliderGallery": "UNVERZICHTBARES",
+	"slidesGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/SSwVoghyKgw?autoplay=0&mute=0&loop=1",
+			"title": "Mexiko ist Geschmack"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/GuTjrjt2L4s?autoplay=0&mute=0&loop=1",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "Archäologie"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/yTGCT8xJtLM?autoplay=0&mute=0&loop=1",
+			"title": "Jungenerz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/LQ-dqJPHc3A?autoplay=0&mute=0&loop=1",
+			"title": "Fallschirm"
+		}
+	],
+	"slidesGalleryGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/3sxnZFRCUgQ?autoplay=0&mute=0&loop=1",
+			"title": "Tequila"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/L_GBrxICTe4?autoplay=0&mute=0&loop=1",
+			"title": "Kupferschluchten"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/vyj7S5IoX1Q?autoplay=0&mute=0&loop=1",
+			"title": "Archäologie"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/3vmSVbkVeiI?autoplay=0&mute=0&loop=1",
+			"title": "Jungenerz"
+		}
+	],
+	"titleTravels": "So reisen…",
+	"subTitleTravels": "Prominente geben dir Reisetipps.",
+	"travelsGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/OkTR-H3yVEM?autoplay=0&mute=0&loop=1",
+			"title": "Kika Edgar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/-Yzq9BC_ocs?autoplay=0&mute=0&loop=1",
+			"title": "Alex Sirvent"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/XHWX9PPGNeE?autoplay=0&mute=0&loop=1",
+			"title": "Jacky Bracamontes"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ZSoH33KJilc?autoplay=0&mute=0&loop=1",
+			"title": "Aleks Syntek"
+		}
+	],
+	"titleTriTraveler": "REISEQUIZ",
+	"subTitleTriTraveler": "Wie gut kennst du Mexiko? Teste dich selbst.",
+	"tritravelerGellery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/uoCpf3o1zEg?autoplay=0&mute=0&loop=1",
+			"title": "Kunsthandwerk"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/7Yoqsvvw1AU?autoplay=0&mute=0&loop=1",
+			"title": "CDMX"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/PoxhjVUVSzY?autoplay=0&mute=0&loop=1",
+			"title": "Izamal"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/taFEOphMzYo?autoplay=0&mute=0&loop=1",
+			"title": "Bacalar"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/JYRVuHXLhuY?autoplay=0&mute=0&loop=1",
+			"title": "San Cristóbal"
+		}
+	],
+	"titleGallery": "MEXIKO ENTDECKEN",
+	"subtitleGallery": "Entdecke Mexiko durch seine nationalen Messen und Kultur.",
+	"videosGallery": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/1kUCbDgSkVU?autoplay=0&mute=0&loop=1",
+			"title": "Schwarzer Krieger"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HMBotewDNDs?autoplay=0&mute=0&loop=1",
+			"title": "Cuicuilco"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/tw2F0-I3Tng?autoplay=0&mute=0&loop=1",
+			"title": "Tal der Mönche"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/HCljfO9zg2g?autoplay=0&mute=0&loop=1",
+			"title": "Bernstein"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/ws-ef907aKg?autoplay=0&mute=0&loop=1",
+			"title": "Agaven-Tequila"
+		}
+	],
+	"titleBottom": "TOLLES AQUARIUM VON MAZATLAN",
+	"descriptionBottom": "Das Great Mazatlán Aquarium ist das größte in Mexiko und das wichtigste in Lateinamerika und dem Meer von Cortez gewidmet. Mit einem Schwerpunkt auf Bildung, Forschung und Wissensvermittlung wird es in den Aquarien der Welt Maßstäbe setzen.",
+	"videoBottomVideoUrl": "https://www.youtube.com/embed/dNIrs66OMOo?autoplay=0&mute=0&loop=1"
+}

@@ -1,0 +1,22 @@
+{
+  "urlImagenTop": "blog/principal.jpg",
+  "title": "博客",
+  "titleTop": "PROXIMOS EVENTOS",
+  "subTitle": "Descubre los eventos que no te puedes perder.",
+  "posts": [
+    {
+      "urlImg": "blog/manoEsferas.png",
+      "name": "圣诞玻璃球挂件，装饰墨 ⻄哥圣诞节的玻璃艺术",
+      "text": "墨西哥的圣诞节是⼀个根深蒂固的传统，在世界范围内是独⼀⽆⼆的。 年复一年，由工匠大师的神奇之手制作的玻璃球装饰着这个节日；他们 用吹制玻璃的技术创造出美丽的作品，将圣诞节日变得更加美丽",
+      "urlPost": "/post",
+      "post": 1
+    },
+    {
+      "urlImg": "blog/titulo-cozumel.jpg",
+      "name": "在 Cozumel（科苏梅尔岛）可以进行的 10 项活动 E",
+      "text": "科苏梅尔岛位于墨⻄哥加勒比海地区，是墨⻄哥最珍贵的岛屿天堂之⼀， 其 自然财富与玛雅文化遗产和现代基础设施完美地结合在⼀起，其国际 机场、酒店区及适合 大型邮轮的码头欣然地接受国内外游客。",
+      "urlPost": "/post",
+      "post": 2
+    }
+  ]
+}

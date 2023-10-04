@@ -1,0 +1,103 @@
+.tren-maya-ctn {
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	padding: 180px 32px 32px 32px;
+	background-image: url('../../assets/img/header/liston-azul.webp');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: top;
+}
+.informacion{
+    display: flex;
+    padding: 40px;
+    align-items: center;
+}
+.informacion--left{
+    width: 50%;
+}
+.informacion--titulo{
+    color: var(--yellow);
+    font-size: var(--txt-title-xl);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+}
+.informacion--texto{
+    font-size: var(--txt-h5-xl);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: justify;
+}
+.informacion--right{
+    width: 50%;
+    margin: 20px;
+}
+.informacion--imagen{
+    width: 100%;
+    margin: 20px;
+}
+
+.galeria{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.imagen1{
+    grid-area: imagen1;
+}
+.imagen2{
+    grid-area: imagen2;
+}
+.imagen3{
+    grid-area: imagen3;
+}
+.galeria--contenido{
+    width: 95%;
+    padding: 10px;
+    column-gap: 10px;
+    row-gap: 10px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 250px 250px;
+    grid-template-areas: 
+    'imagen1 imagen1 imagen2'
+    'imagen1 imagen1 imagen3'
+    ;
+}
+.galeria--titulo{
+    text-align: center;
+    color: var(--purple);
+    font-size: var(--txt-title-xl);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+}
+.galeria img{
+    width: 100%;
+    height: 100%;
+}
+
+.videos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.videos--titulo{
+    text-align: center;
+    color: var(--blue);
+    font-size: var(--txt-title-xl);
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+}
+
+.magic-towns-video-slider-ctn-carousel{
+    flex-direction: column !important;
+}
+
+.magic-towns-video-slider-ctn-carousel .css-1qzevvg{
+    position: relative !important;
+    left: 0 !important;
+}

@@ -1,0 +1,71 @@
+.home-travel-inspiration-ctn {
+  background: whitesmoke;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 
+  220px 32px 120px 32px;
+}
+
+.home-travel-inspiration-title {
+  font-size: var(--txt-title-xl);
+  text-align: center;
+  margin: 0;
+  color: var(--purple);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  /*text-shadow: 5px 5px 3px var(--grey);*/
+}
+
+.home-travel-inspiration-ctn-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+  padding-top: 62px;
+}
+
+.home-travel-inspiration-ctn-card {
+  flex: 1 0 12%;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.home-travel-inspiration-card-img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 0.5;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.home-travel-inspiration-ctn-card-hover {
+  display: none;
+}
+
+.home-travel-inspiration-card-hover-title {
+  font-size: var(--txt-h5-xl);
+  padding: 32px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+
+.home-travel-inspiration-ctn-card:hover .home-travel-inspiration-ctn-card-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .5);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-travel-inspiration-ctn-card:hover .home-travel-inspiration-card-img {
+  transform: scale(1.2);
+  transition: 0.4s;
+}

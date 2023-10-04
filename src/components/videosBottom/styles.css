@@ -1,0 +1,34 @@
+.videos-bottom-ctn {
+  box-sizing: border-box;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 32px;
+	padding: 0 32px;
+	margin: 164px 0;
+}
+
+.videos-bottom-ctn-video {
+	flex: 1 0 40%;
+	aspect-ratio: 16/9;
+}
+
+.videos-bottom-ctn-title {
+	flex: 1 0 50%;
+	margin: auto 0;
+}
+
+.videos-bottom-title {
+	text-align: left;
+	font-size: var(--txt-title-xl);
+	font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+	color: var(--purple);
+	margin: 0 0 64px 0;
+}
+
+.videos-bottom-description {
+	font-size: var(--txt-h5-xl);
+	text-align: justify;
+}

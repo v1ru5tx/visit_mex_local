@@ -1,0 +1,99 @@
+{
+  
+  "urlImagenTop":"header/CALENDARIO.webp",
+  "title":"KALENDER",
+  "titleTop":"KOMMENDE VERANSTALTUNGEN",
+  "subTitle":"Entdecken Sie die Ereignisse, die Sie nicht verpassen dürfen.",
+  "events":[
+    {
+      "urlImg": "calendario/vendimiaAguascalientes.webp",
+      "date":"24. August bis 17. September 2023",
+      "title": "Ernte 2023 Aguascalientes",
+      "text":"Vom 24. August bis 17. September öffnet die Weinstraße Aguascalientes 2023 ihre Türen für Besucher, die in ein Universum voller Geschmäcker, Aromen und Naturlandschaften eintauchen möchten.",
+      "vinculo":"",
+      "start":"2023-08-24", "end":"2023-09-17" 
+    },
+    {
+      "urlImg": "calendario/saltillo.webp",
+      "date":"21. bis 24. September 2023",
+      "title": "RODEO SALTILLO",
+      "text":"Machen Sie sich bereit für das Rodeo Saltillo Expogan & Fest 2023! 🐎 Wir sehen uns vom 22. bis 24. September in der Cowboy-Stadt Mexikos. 🇲🇽 Jeans hochziehen!",
+      "vinculo":"",
+      "start":"2023-09-21", "end":"2023-09-24"
+    },
+    {
+      "urlImg": "calendario/ElPandelaCatrina.webp",
+      "date":"26. Oktober bis 05. November 2023",
+      "title": "Das Brot der Catrina.",
+      "text":"Erleben Sie das Bäckerei- und Gastronomieerlebnis von Tecate zusammen mit der Feier des Tages der Toten.",
+      "vinculo":"https://www.facebook.com/ElPanDeLaCatrina/",
+      "start":"2023-10-26", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/FullMoonLoreto2023.webp",
+      "date":"27. bis 29. Okt. 2023",
+      "title": "Vollmondfest Loreto 2023",
+      "text":"Woche im Zeichen von Yoga, Wellness und Meditation in der magischen Stadt Loreto.",
+      "vinculo":"https://www.loretobcstourism.com/event/full-moon-festival-2023/",
+      "start":"2023-10-27", "end":"2023-10-29" 
+    },
+    {
+      "urlImg": "calendario/FeriaDeTodosLosSantos2023.webp",
+      "date":"27. Okt. bis 12. Nov. 2023",
+      "title": "Allerheiligen-Messe",
+      "text":"Colima State Fair mit Gastronomie, mechanischen Spielen, Ausstellungen, Konzerten und mehr.",
+      "vinculo":"https://www.facebook.com/FeriaColima/?locale=es_LA",
+      "start":"2023-10-27", "end":"2023-11-12" 
+    },
+    {
+      "urlImg": "calendario/festivalChocolate.webp",
+      "date":"02 de Nov, 2023",
+      "title": "12vo Tabasco-Schokoladenfest",
+      "text":"Mexiko war das erste Land, das Kakao anbaute. Besuchen Sie das traditionelle Festival, das diesen Stolz feiert, vom 15. bis 19. November in Tabasco.",
+      "vinculo":"https://festivaldelchocolate.mx/",
+      "start":"2023-11-02", "end":"2023-11-02"
+    },
+    {
+      "urlImg": "calendario/festivalCalaverasAguascalientes.webp",
+      "date":"02. bis 05. November 2023",
+      "title": "Totenkopffest, Aguascalientes",
+      "text":"Das Skulls Festival ist eine der wichtigsten Attraktionen in Aguascalientes. Jahr für Jahr, Ende Oktober und Anfang November, wird die Stadt zu einem malerischen Fest des Verstorbenen, das verschiedene Überraschungen für Sie bereithält.",
+      "vinculo":"https://www.mexicodesconocido.com.mx/festival-de-las-calaveras-en-aguascalientes.html",
+      "start":"2023-11-02", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/TSL-LOGO.png",
+      "date":"25. November 2023",
+      "title": "Sprint-Triathlon Loreto",
+      "text":"Schwimmen, laufen und radeln Sie in der magischen Stadt Loreto.",
+      "vinculo":"https://www.timermexico.com/convocatoria-evento/?event=f8ba349f08582ec5d3f9b7ada0ac7e1a&api_key=7d0071a9465cd5ca",
+      "start":"2023-11-25", "end":"2023-11-25" 
+    },
+    {
+      "urlImg": "calendario/MarAMar.webp",
+      "date":"01. bis 03. Dezember 2023",
+      "title": "Meer zu Meer",
+      "text":"Sportveranstaltung: Langlaufrennen über 102 km.",
+      "vinculo":"https://maramartrail.com/",
+      "start":"2023-12-01", "end":"2023-12-03" 
+    },
+{
+      "urlImg": "calendario/festivalHistoricoCampeche.webp",
+      "date":"08. bis 21. Dezember 2023",
+      "title": "Historisches Festival von Campeche",
+      "text":"Das Internationale Festival des historischen Zentrums von Campeche, dessen achtzehnte Ausgabe vom 8. bis 21. Dezember stattfindet, bietet mehr als 50 kulturelle Aktivitäten, darunter Musik, Tanz, Theater, bildende Kunst und Buchpräsentationen.",
+      "vinculo":"",
+      "start":"2023-11-15", "end":"2023-11-19"
+    }
+
+
+ 
+  
+   
+   
+   
+   
+    
+   
+  ]
+}

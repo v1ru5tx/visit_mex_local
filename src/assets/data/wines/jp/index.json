@@ -1,0 +1,65 @@
+{
+    "id": "vinos",
+    "title": "ワイン",
+    "subtitle": "ワインを発見する",
+    "gallerySlider": [
+        {
+            "urlImg": "BCN_valle_guadalupe_22.webp",
+            "name": "バハ カリフォルニア、グアダルーペ バレー ",
+            "dir": "https://www.ensenada.travel/la-ruta-del-vino/valle-de-guadalupe/"
+        },
+        {
+            "urlImg": "8_VINOS_DE_COAHUILA.webp",
+            "name": "ワイン街道、コアウイラ州",
+            "dir": "https://hazturismoencoahuila.mx/vinos-de-coahuila"
+        },
+        {
+            "urlImg": "uvasaguascalientes.webp",
+            "name": "アグアスカリエンテスのワイン街道",
+            "dir": "https://rutadelvino.aguascalientes.gob.mx/"
+        },
+        {
+            "urlImg": "Region_vinos_Cava_Freixenetqueretaro.webp",
+            "name": "ワイン街道、ケレタロ",
+            "dir": "https://queretaro.travel/tipo-de-destino/ruta-arte-queso-y-vino/"
+        }
+    ],
+    "urlImg": "uvabajacalifornia.webp",
+    "description": [
+        {
+            "text": "私たちの国は、味わう人にユニークな体験をもたらす優れた官能特性を備えた、高品質のワインを生産しています。 さらに、テイスティング、ペアリング、ブドウ畑のツアーを利用すれば、家族、パートナー、友人と一緒にワインをより充実した方法で味わうことができます。"
+        },
+        {
+            "text": "メキシコには、アグアスカリエンテス、バハ カリフォルニア、コアウイラ、グアナファト、イダルゴ、ケレタロの 6 つの州に位置する 10 の国際的に知られたルートがあります。 それぞれの場所で、永遠に記憶に残る素晴らしい美食ツアーがあなたを待っています。"
+        },
+        {
+            "text": "ぜひメキシコワインを味わいに行ってみてください！"
+        }
+    ],
+    "cardsGallery": [
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        },
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        },
+        {
+            "title": "DESFILE DÍA DE LOS MUERTOS | CDMX",
+            "date": "Vie, 27 de Oct-Dom, 29 de Oct",
+            "month": "Oct",
+            "day": "27",
+            "description": "Plaza de la Constitución P.za de la Constitución S/N, Centro Hitórico de la Cdad. de México, Centro, CDMX.",
+            "dir":"/"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+	"id": "pueblos-magicos",
+	"urlVideoTop": "https://www.youtube.com/embed/vh7K3C7Hm8U?autoplay=1&mute=1&loop=1",
+	"title": "プエブロ・マヒコ",
+	"imageTopUrl": "CentroHistorico.webp",
+	"descriptionTop": [
+		{
+			"text": "プエブロ・マヒコとは、多くの場合、我々の国にとって重要な出来事が起きた村々であり、伝統と歴史、シンボルや伝説に満ちています。国家としてのアイデンティティーの代表格であり、来訪者を魅了する魔法の場所です。訪れることはメキシコの魅力を発見できるチャンスです。"
+		},
+		{
+			"text": "プエブロ・マヒコという企画は、魅力的で多彩、その上国内、国外の観光客にとって新たな国の代表となるか、国内の村々が集団的空想に加盟できるかを見直して貢献するものです。"
+		},
+		{
+			"text": "現在、我が国には177の魔法の町があります。"
+		}
+	],
+	"titleSlider": "探検する",
+	"slidersExplore": [
+		{
+			"imageUrl":"PalenqueChiapas.jpg",
+			"title":"Palenque, Chiapas",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/chiapas/palenque"
+		},
+		{
+			"imageUrl":"IslaMujeresQuintanaRoo.jpg",
+			"title":"Isla Mujeres, Quintana Roo",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/quintana-roo/isla-mujeres-quintana-roo"
+		},
+
+		{
+			"imageUrl": "HuamantlaTlaxcala.jpg",
+			"title": "Huamantla, Tlaxcala",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/tlaxcala/huamantla"
+		},
+		{
+			"imageUrl": "CholulaPuebla.jpg",
+			"title": "Cholula, Puebla",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/puebla/cholula-puebla"
+		},
+		{
+			"imageUrl": "MuralesdeAjijic.webp",
+			"title": "Ajijic, Jalisco",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/jalisco/ajijic"
+		},
+		{
+			"imageUrl": "ElFuerteSinaloa.jpeg",
+			"title": "El Fuerte, Sinaloa",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/sinaloa/el-fuerte-sinaloa"
+		},
+		{
+			"imageUrl": "VilladelCarbonEstadodeMexico.png",
+			"title": "Villa del Carbón, Estado de México",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/estado-de-mexico/villa-del-carbon"
+		},
+		{
+			"imageUrl": "DelfinesIslaAguada.webp",
+			"title": "Isla Aguada, Campeche",
+			"link":"https://pueblosmagicos.mexicodesconocido.com.mx/campeche/isla-aguada"
+		}
+	],
+	"titleKnow": "当社についてさらに詳しく知るには",
+	"actions": {
+		"button": "ここをクリック",
+		"dir": "https://pueblosmagicos.mexicodesconocido.com.mx/"
+	},
+	"imageUrlKnow": "VilladelCarbónPresaTaxhimay.webp",
+	"slides": [
+		{
+			"videoUrl": "https://www.youtube.com/embed/lm4CG5qiAE4?autoplay=0&mute=0&loop=1",
+			"title": "TEQUILA"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/uwIQkXG4mAM?autoplay=0&mute=0&loop=1",
+			"title": "SAN CRíSTOBAL DE LAS CASAS"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/J7X9jZwq3UQ?autoplay=0&mute=0&loop=1",
+			"title": "Paracho"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/8zKkpmtd5SU?autoplay=0&mute=0&loop=1",
+			"title": "Múzquiz"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/rHii3W0z9Qo?autoplay=0&mute=0&loop=1",
+			"title": "Mineral del Chico"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/_KXMQpGt4ZE?autoplay=0&mute=0&loop=1",
+			"title": "Mexcaltitán"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/kUBJaLqBvaU?autoplay=0&mute=0&loop=1",
+			"title": "IZAMAL"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/sIcvjZzWEkU?autoplay=0&mute=0&loop=1",
+			"title": "CREEL"
+		},
+		{
+			"videoUrl": "https://www.youtube.com/embed/K0bcycGLFtI?autoplay=0&mute=0&loop=1",
+			"title": "BACALAR"
+		}
+	]
+}

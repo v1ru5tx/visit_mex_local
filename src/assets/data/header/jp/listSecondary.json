@@ -1,0 +1,17 @@
+[
+	{ "name": "イベント日程表",
+		"dir": "/calendario"
+	},
+	{ "name":"動画",
+		"dir": "/videos"
+	},
+	{ "name":"ダウンロード", 
+		"dir": "/descargas"
+	},
+	{ "name":"ブログ", 
+		"dir": "/blog"
+	},
+	{ "name":"観光ガイド", 
+		"dir": "/guias-turisticas"
+	}
+]

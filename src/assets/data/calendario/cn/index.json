@@ -1,0 +1,93 @@
+{
+  
+  "urlImagenTop":"header/CALENDARIO.webp",
+  "title":"日曆",
+  "titleTop":"即將舉行的活動",
+  "subTitle":"發現您不能錯過的活動。",
+  "events":[
+    {
+      "urlImg": "calendario/vendimiaAguascalientes.webp",
+      "date":"2023年8月24日至9月17日",
+      "title": "2023 年收成 阿瓜斯卡連特斯",
+      "text":"8 月 24 日至 9 月 17 日，2023 年阿瓜斯卡連特斯葡萄酒之路將為遊客敞開大門，讓他們沉浸在風味、香氣和自然景觀的世界中。",
+      "vinculo":"https://rutadelvino.aguascalientes.gob.mx/",
+      "start":"2023-08-24", "end":"2023-09-17" 
+    },
+    {
+      "urlImg": "calendario/saltillo.webp",
+      "date":"2023年9月21日至24日",
+      "title": "薩爾蒂羅牛仔競技表演",
+      "text":"為 2023 年薩爾提洛牛仔競技博覽會和節做好準備！ 🐎 9月22日至24日在墨西哥最具牛仔氣息的城市見。 🇲🇽 拉起牛仔褲！",
+      "vinculo":"",
+      "start":"2023-09-21", "end":"2023-09-24"
+    },
+    {
+      "urlImg": "calendario/ElPandelaCatrina.webp",
+      "date":"2023年10月26日至11月5日",
+      "title": "卡特里娜的麵包。",
+      "text":"體驗特卡特的麵包店和美食，同時慶祝亡靈節。",
+      "vinculo":"https://www.facebook.com/ElPanDeLaCatrina/",
+      "start":"2023-10-26", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/FullMoonLoreto2023.webp",
+      "date":"2023年10月27日至29日",
+      "title": "2023 年洛雷托滿月節",
+      "text":"洛雷托魔法小鎮的瑜伽、健康和冥想週。",
+      "vinculo":"https://www.loretobcstourism.com/event/full-moon-festival-2023/",
+      "start":"2023-10-27", "end":"2023-10-29" 
+    },
+    {
+      "urlImg": "calendario/FeriaDeTodosLosSantos2023.webp",
+      "date":"2023年10月27日至11月12日",
+      "title": "諸聖節",
+      "text":"科利馬州博覽會，提供美食、機械遊戲、展覽、音樂會等。",
+      "vinculo":"https://www.facebook.com/FeriaColima/?locale=es_LA",
+      "start":"2023-10-27", "end":"2023-11-12" 
+    },
+    {
+      "urlImg": "calendario/festivalChocolate.webp",
+      "date":"2023 年 11 月 2 日",
+      "title": "12塔巴斯科巧克力節”",
+      "text":"墨西哥是第一個種植可可的國家。參加 11 月 15 日至 19 日在塔巴斯科州慶祝這一驕傲的傳統節日。",
+      "vinculo":"https://festivaldelchocolate.mx/",
+      "start":"2023-11-02", "end":"2023-11-02"
+    },
+    {
+      "urlImg": "calendario/festivalCalaverasAguascalientes.webp",
+      "date":"2023 年 11 月 2 日至 5 日",
+      "title": "頭骨節，阿瓜斯卡連特斯",
+      "text":"頭骨節是阿瓜斯卡連特斯最重要的景點之一。年復一年，十月底十一月初，這座城市變成了風景如畫的追思會，為你準備了各種驚喜。",
+      "vinculo":"https://www.mexicodesconocido.com.mx/festival-de-las-calaveras-en-aguascalientes.html",
+      "start":"2023-11-02", "end":"2023-11-05" 
+    },
+    {
+      "urlImg": "calendario/TSL-LOGO.png",
+      "date":"2023 年 11 月 25 日",
+      "title": "洛雷托短跑鐵人三項賽",
+      "text":"在洛雷托魔法小鎮游泳、跑步和騎自行車。",
+      "vinculo":"https://www.timermexico.com/convocatoria-evento/?event=f8ba349f08582ec5d3f9b7ada0ac7e1a&api_key=7d0071a9465cd5ca",
+      "start":"2023-11-25", "end":"2023-11-25" 
+    },
+    {
+      "urlImg": "calendario/MarAMar.webp",
+      "date":"2023 年 12 月 1 日至 3 日",
+      "title": "海對海",
+      "text":"體育賽事越野賽跑 102 公里。",
+      "vinculo":"https://maramartrail.com/",
+      "start":"2023-12-01", "end":"2023-12-03" 
+    },
+      
+    {
+      "urlImg": "calendario/festivalHistoricoCampeche.webp",
+      "date":"2023年12月8日至21日",
+      "title": "坎佩切歷史節",
+      "text":"第十八屆坎佩切歷史中心國際節將於 12 月 8 日至 21 日舉行，將舉辦 50 多項文化活動，包括音樂、舞蹈、戲劇、視覺藝術和圖書展示。",
+      "vinculo":"",
+      "start":"2023-11-15", "end":"2023-11-19"
+    }
+   
+    
+   
+  ]
+}

@@ -1,0 +1,71 @@
+.destination-known-ctn {
+  display: block;
+  padding: 42px 0;
+  background-image: url('../../assets/img/header/Fondorosa.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+}
+
+.destination-known-title {
+  font-size: var(--txt-title-xl);
+  color: var(--purple);
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-top: 160px;
+}
+
+.destination-known-ctn-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 32px;
+}
+
+.destination-known-ctn-gallery-img {
+  flex: 1 0 20%;
+}
+
+.destination-known-gallery-img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+}
+
+.destination-known-ctn-content {
+  display: flex;
+}
+
+.destination-known-ctn-description {
+  padding: 42px;
+}
+
+.destination-known-description-subtitle {
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  font-size: var(--txt-title-xl);
+  color: var(--yellow);
+}
+
+.destination-known-description-text {
+  font-size: var(--txt-h5-xl);
+  text-align: justify;
+}
+
+.destination-known-description-btn {
+  text-decoration: none;
+  color: var(--black);
+  cursor: pointer;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 42px;
+}
+
+.destination-known-description-btn:hover {
+  background: var(--black); 
+  color: #fff;
+}

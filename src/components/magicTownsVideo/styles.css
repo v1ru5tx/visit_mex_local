@@ -1,0 +1,11 @@
+.magic-towns-video-ctn {
+  min-height: 280px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+@media (min-width: 744px) {
+  .magic-towns-video-ctn {
+    padding-top: 0;
+  }
+}

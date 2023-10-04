@@ -1,0 +1,17 @@
+.experience-link-content-wellness-ctn {
+  
+}
+
+.experience-link-content-wellness-ctn-description {
+  margin-top: 120px;
+  padding: 0 32px;
+  font-size: var(--txt-h5-xl);
+  text-align: justify;
+}
+
+
+
+.experience-link-content-wellness-link:hover {
+  background: var(--black);
+  color: #fff;
+}
