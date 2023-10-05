@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Parallax } from 'react-scroll-parallax';
@@ -6,13 +5,6 @@ import './styles.css';
 
 const HomeSunBeachAndSand = ({ data }) => {
   const listSunBeachAndSand = data?.listSunBeachAndSand;
-
-  const makeBold = (item, keyword) => {
-    var re = new RegExp(keyword, 'g')
-    return (
-        item.replace(re, '<b>'+keyword+ '</b>')
-    )
-  };
 
   return (
     <div className="home-sun-beach-and-sand-ctn">

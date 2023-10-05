@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Tiktok from '../../assets/img/rss/tiktok.svg';
 import Right from '../../assets/img/rss/arrow-right.svg';
 import Left from '../../assets/img/rss/arrow-left.svg';

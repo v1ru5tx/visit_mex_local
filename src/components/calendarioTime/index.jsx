@@ -1,5 +1,4 @@
-import React, {useState, useEffect, useContext } from "react";
-import { Link } from 'react-router-dom';
+import {useState, useEffect, useContext } from "react";
 import { Context } from '../../Context';
 import "./styles.css";
 import { LazyLoadImage } from "react-lazy-load-image-component";

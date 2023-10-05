@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import Carousel from 'react-spring-3d-carousel';
 import './styles.css';
 

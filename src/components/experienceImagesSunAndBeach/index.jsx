@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ExperienceContentLink from '../experienceContentLink';
 import Right from '../../assets/img/rss/arrow-right.svg';

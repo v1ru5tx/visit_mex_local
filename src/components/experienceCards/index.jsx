@@ -1,4 +1,3 @@
-import React from 'react';
 import ArrowLink from '../../assets/img/rss/arrow-link.svg';
 import './styles.css';
 

@@ -1,8 +1,7 @@
-import React from 'react';
 import { ParallaxProvider } from 'react-scroll-parallax';
 import Header from '../header';
 import Rss from '../Rss';
-import ScrollToTop from '../scrollToTop';
+// import ScrollToTop from '../scrollToTop';
 import Footer from '../footer';
 
 const Layout = ({ children }) => {
@@ -10,7 +9,7 @@ const Layout = ({ children }) => {
     <div className="layout">
       <Header />
       <Rss />
-      <ScrollToTop/>
+      {/* <ScrollToTop/> */}
       <ParallaxProvider>
         {children}
       </ParallaxProvider>

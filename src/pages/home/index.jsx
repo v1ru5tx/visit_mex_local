@@ -1,7 +1,5 @@
-import React, { useState, useEffect, useContext } from 'react';
-import { useLocation } from 'react-router-dom';
-import { Context } from '../../Context';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
+import { useState, useEffect, useContext } from 'react';
+import { Context } from '../../Context'
 
 import homeEs from '../../assets/data/homeSlider/es/index.json';
 import homeEn from '../../assets/data/homeSlider/en/index.json';
@@ -15,13 +13,13 @@ import homeCn from '../../assets/data/homeSlider/cn/index.json';
 import HomeLoading from '../../components/homeLoading';
 import HomeSlider from '../../components/homeSlider';
 // import HomeFinder from '../../components/homeFinder';
-import HomeKnow from '../../components/homeKnow';
-import HomeTheMostViewed from '../../components/homeTheMostViewed';
-import HomeSunBeachAndSand from '../../components/homeSunBeachAndSand';
-import HomeTravelInspiration from '../../components/homeTravelInspiration';
-import HomeSliderVideoCards from '../../components/homeSliderVideoCards';
-// import HomeExperience360 from '../../components/homeExperience360';
-import HomeRecentArticles from '../../components/homeRecentArticles';
+// import HomeKnow from '../../components/homeKnow';
+// import HomeTheMostViewed from '../../components/homeTheMostViewed';
+// import HomeSunBeachAndSand from '../../components/homeSunBeachAndSand';
+// import HomeTravelInspiration from '../../components/homeTravelInspiration';
+// import HomeSliderVideoCards from '../../components/homeSliderVideoCards';
+// // import HomeExperience360 from '../../components/homeExperience360';
+// import HomeRecentArticles from '../../components/homeRecentArticles';
 
 
 const Home = () => {
@@ -58,13 +56,13 @@ useEffect(() => {
         <HomeSlider data={language}/>
         
         {/*<HomeFinder data={language}/>*/}
-        <HomeKnow data={language}/>
+        {/* <HomeKnow data={language}/>
         <HomeTheMostViewed data={language}/>
         <HomeSunBeachAndSand data={language}/>
         <HomeTravelInspiration data={language}/>
-        <HomeSliderVideoCards data={language}/>
+        <HomeSliderVideoCards data={language}/> */}
         {/* <HomeExperience360 /> */}
-        <HomeRecentArticles data={language}/>
+        {/* <HomeRecentArticles data={language}/> */}
       </>
       :
       <>

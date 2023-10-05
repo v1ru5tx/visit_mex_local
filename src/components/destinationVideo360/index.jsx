@@ -1,4 +1,3 @@
-import React from 'react';
 import './styles.css';
 
 const DestinationVideo360 = ({ data }) => (
