@@ -12,14 +12,14 @@ import homeCn from '../../assets/data/homeSlider/cn/index.json';
 
 import HomeLoading from '../../components/homeLoading';
 import HomeSlider from '../../components/homeSlider';
-// import HomeFinder from '../../components/homeFinder';
-// import HomeKnow from '../../components/homeKnow';
-// import HomeTheMostViewed from '../../components/homeTheMostViewed';
-// import HomeSunBeachAndSand from '../../components/homeSunBeachAndSand';
-// import HomeTravelInspiration from '../../components/homeTravelInspiration';
-// import HomeSliderVideoCards from '../../components/homeSliderVideoCards';
+// // import HomeFinder from '../../components/homeFinder';
+import HomeKnow from '../../components/homeKnow';
+import HomeTheMostViewed from '../../components/homeTheMostViewed';
+import HomeSunBeachAndSand from '../../components/homeSunBeachAndSand';
+import HomeTravelInspiration from '../../components/homeTravelInspiration';
+// import HomeSliderVideoCards from '../../components/homeSliderVideoCards'; PROBLEMAS
 // // import HomeExperience360 from '../../components/homeExperience360';
-// import HomeRecentArticles from '../../components/homeRecentArticles';
+import HomeRecentArticles from '../../components/homeRecentArticles';
 
 
 const Home = () => {
@@ -55,14 +55,14 @@ useEffect(() => {
       <>
         <HomeSlider data={language}/>
         
-        {/*<HomeFinder data={language}/>*/}
-        {/* <HomeKnow data={language}/>
+        {/* <HomeFinder data={language}/> NUNCA*/}
+        <HomeKnow data={language}/>
         <HomeTheMostViewed data={language}/>
         <HomeSunBeachAndSand data={language}/>
         <HomeTravelInspiration data={language}/>
-        <HomeSliderVideoCards data={language}/> */}
-        {/* <HomeExperience360 /> */}
-        {/* <HomeRecentArticles data={language}/> */}
+        {/* <HomeSliderVideoCards data={language}/>  PROBLEMAS*/}
+        {/* <HomeExperience360 />  NUNCA*/}
+        <HomeRecentArticles data={language}/>
       </>
       :
       <>

@@ -37,15 +37,7 @@ const HomeKnow = ({ data }) => {
         <div className="home-know-ctn-description">
           <div>
             <p className="home-know-description-title">{data?.subtitleListKnow}</p>
-            {/*<p className="home-know-description">México es un gran mosaico que combina preciosos escenarios naturales, ciudades con herencia prehispánica, colonial y moderna, una amplia variedad de manjares exquisitos que deleitan paladares y fascinantes tradiciones que cautivan al visitante.</p>*/}
           </div>
-          {/* <div>
-            <button
-              type='button'
-              className="home-know-description-btn"
-              >Tour 360
-            </button>
-          </div> */}
         </div>
       </div>
       <div className="home-know-ctn-cards">
@@ -58,14 +50,6 @@ const HomeKnow = ({ data }) => {
             />
             <div className="home-know-ctn-card-description" style={{ background: `rgba(${colors[Math.floor(Math.random() * 6)]})`}} >
               <p className="home-know-card-description-title">{item?.title}</p>
-              {/* <div className="home-know-ctn-card-description-stats">
-                {item?.fields?.map(field => (
-                  <div className="home-know-ctn-card-stats">
-                    <p className="home-know-card-stats-quantity">{field?.quantity}</p>
-                    <p className="home-know-card-stats-description">{field?.description}</p>  
-                  </div>
-                ))}
-              </div>*/}
                 <a href={item?.dir} className="home-know-card-description-btn homeLink">
                   {'>'}
                 </a>

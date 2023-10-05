@@ -68,10 +68,6 @@ const Footer = () => {
           dir: "/"
         },
         {
-          name: "(01) 800 9797 8585",
-          dir: "/"
-        },
-        {
           name: "Correo:",
           dir: "/"
         },
